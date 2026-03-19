@@ -27,7 +27,6 @@ configs/data/
 configs/action_config.yaml
 configs/train_config.yaml
 src/annomi_pipeline/action/
-src/annomi_pipeline/data/embedding.py
 src/annomi_pipeline/scripts/run_stage2.py
 src/annomi_pipeline/scripts/run_stage3.py
 src/annomi_pipeline/training/
