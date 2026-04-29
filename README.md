@@ -250,5 +250,5 @@ memory) for the HARP Lab robot PT-coach pipeline.
 
 ## Team
 
-Four-person team. HARP Lab, Robotics Institute, Carnegie Mellon University.
+Team 22 - Juan Ortega, Smridhi Patwari, Zhengfei Li, Yize Wu. HARP Lab, Robotics Institute, Carnegie Mellon University.
 Advisor: Prof. Henny Admoni.
