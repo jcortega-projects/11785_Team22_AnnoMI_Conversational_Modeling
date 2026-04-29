@@ -1,0 +1,36 @@
+{
+  "hf_model_name": "distilbert-base-uncased",
+  "overall": {
+    "count": 4817,
+    "max": 435,
+    "mean": 81.87855511729292,
+    "median": 68.0,
+    "min": 2,
+    "p95": 184.19999999999982
+  },
+  "test": {
+    "count": 866,
+    "max": 364,
+    "mean": 81.67321016166282,
+    "median": 69.0,
+    "min": 8,
+    "p95": 172.75
+  },
+  "tokenizer_type": "whitespace",
+  "train": {
+    "count": 3153,
+    "max": 435,
+    "mean": 82.46749127814779,
+    "median": 67.0,
+    "min": 2,
+    "p95": 188.0
+  },
+  "val": {
+    "count": 798,
+    "max": 380,
+    "mean": 79.77443609022556,
+    "median": 70.0,
+    "min": 3,
+    "p95": 170.29999999999995
+  }
+}

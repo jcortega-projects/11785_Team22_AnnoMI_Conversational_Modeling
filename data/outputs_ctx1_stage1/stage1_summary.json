@@ -1,0 +1,20 @@
+{
+  "baseline_best_result": null,
+  "baseline_plot_path": "",
+  "baseline_results_path": "",
+  "chunk_counts": {
+    "test": 866,
+    "train": 3153,
+    "val": 798
+  },
+  "conversation_count": 133,
+  "processed_dir": "/Users/juanortega/Documents/CMU/Spring 2026/IDL/project/Code/data/processed_ctx1",
+  "source_csv": "/Users/juanortega/Documents/CMU/Spring 2026/IDL/project/Code/AnnoMI/AnnoMI-simple.csv",
+  "token_report_path": "/Users/juanortega/Documents/CMU/Spring 2026/IDL/project/Code/data/outputs_ctx1_stage1/token_stats.json",
+  "tokenized_dir": "",
+  "transcript_counts": {
+    "test": 20,
+    "train": 93,
+    "val": 20
+  }
+}

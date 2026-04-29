@@ -1,0 +1,72 @@
+{
+  "best_epoch": 3,
+  "class_names": [
+    "change",
+    "neutral",
+    "sustain"
+  ],
+  "device": "mps",
+  "label_field": "metadata.client_talk_type",
+  "model_name": "answerdotai/ModernBERT-base",
+  "test": {
+    "accuracy": 0.5900692840646651,
+    "f1_macro": 0.5031044933337673,
+    "f1_weighted": 0.6166502355999386,
+    "per_class": {
+      "0": {
+        "f1": 0.4789915966386555,
+        "precision": 0.4418604651162791,
+        "recall": 0.5229357798165137,
+        "support": 218
+      },
+      "1": {
+        "f1": 0.7090367428003972,
+        "precision": 0.8188073394495413,
+        "recall": 0.6252189141856392,
+        "support": 571
+      },
+      "2": {
+        "f1": 0.321285140562249,
+        "precision": 0.23255813953488372,
+        "recall": 0.5194805194805194,
+        "support": 77
+      }
+    },
+    "precision_macro": 0.49774198136690134,
+    "precision_weighted": 0.671791626980627,
+    "recall_macro": 0.5558784044942241,
+    "recall_weighted": 0.5900692840646651
+  },
+  "validation": {
+    "accuracy": 0.5325814536340853,
+    "epoch": 3,
+    "f1_macro": 0.48379335705051846,
+    "f1_weighted": 0.539098675450403,
+    "per_class": {
+      "0": {
+        "f1": 0.4060475161987041,
+        "precision": 0.3983050847457627,
+        "recall": 0.41409691629955947,
+        "support": 227
+      },
+      "1": {
+        "f1": 0.6507747318235996,
+        "precision": 0.6842105263157895,
+        "recall": 0.6204545454545455,
+        "support": 440
+      },
+      "2": {
+        "f1": 0.3945578231292517,
+        "precision": 0.3558282208588957,
+        "recall": 0.44274809160305345,
+        "support": 131
+      }
+    },
+    "precision_macro": 0.4794479439734826,
+    "precision_weighted": 0.5489741638455524,
+    "recall_macro": 0.49243318445238615,
+    "recall_weighted": 0.5325814536340853,
+    "train_loss": 0.8630891370050835,
+    "val_loss": 1.0464565145969391
+  }
+}

@@ -1,0 +1,31 @@
+seed: 42
+device: auto
+
+paths:
+  # Augmented training split — real + accepted synthetic rows
+  train_jsonl:       data/processed/train_augmented.jsonl
+  # Val and test are unchanged — same splits as baseline
+  val_jsonl:         data/processed/val.jsonl
+  test_jsonl:        data/processed/test.jsonl
+  train_embeddings:  data/embeddings_augmented/train_embeddings.npy
+  val_embeddings:    data/embeddings_augmented/val_embeddings.npy
+  test_embeddings:   data/embeddings_augmented/test_embeddings.npy
+  model_path:        data/models/best_model_augmented.pt
+  output_dir:        data/outputs_augmented
+
+label_field: metadata.client_talk_type
+
+training:
+  batch_size: 64
+  hidden_dim: 128
+  num_layers: 2
+  dropout: 0.4
+  activation: relu
+  learning_rate: 0.001
+  weight_decay: 0.001
+  epochs: 40
+  patience: 6
+  early_stopping_metric: f1_macro
+  class_weighted_loss: true
+  scheduler_factor: 0.5
+  scheduler_patience: 2

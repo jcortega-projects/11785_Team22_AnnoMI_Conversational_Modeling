@@ -1,0 +1,20 @@
+seed: 42
+device: auto            # auto -> cuda > mps > cpu
+paths:
+  train_jsonl: data/processed/train.jsonl
+  val_jsonl:   data/processed/val.jsonl
+  test_jsonl:  data/processed/test.jsonl
+  model_path:  data/models/best_model_modernbert_finetune_v2   # HF save_pretrained dir
+  output_dir:  data/outputs_modernbert_finetune_v2
+label_field: metadata.client_talk_type
+training:
+  model_name: answerdotai/ModernBERT-base
+  max_length: 128         # AnnoMI utterances are short; ModernBERT supports up to 8192 but we don't need it
+  batch_size: 16
+  epochs: 3               # v1 overfit badly by epoch 4 (train_loss 0.24 vs val_loss 1.77) — shorten
+  learning_rate: 5.0e-6   # v1 used 2e-5 and diverged; ModernBERT appears more LR-sensitive than RoBERTa/DeBERTa on this size dataset
+  weight_decay: 0.01
+  warmup_ratio: 0.1
+  max_grad_norm: 1.0
+  patience: 2
+  class_weighted_loss: true

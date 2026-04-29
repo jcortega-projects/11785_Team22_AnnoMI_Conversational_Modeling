@@ -1,0 +1,15 @@
+{
+  "backend": "sentence_transformer",
+  "test_shape": [
+    866,
+    768
+  ],
+  "train_shape": [
+    3153,
+    768
+  ],
+  "val_shape": [
+    798,
+    768
+  ]
+}

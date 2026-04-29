@@ -1,0 +1,12 @@
+{
+  "id_to_label": {
+    "0": "change",
+    "1": "neutral",
+    "2": "sustain"
+  },
+  "label_to_id": {
+    "change": 0,
+    "neutral": 1,
+    "sustain": 2
+  }
+}

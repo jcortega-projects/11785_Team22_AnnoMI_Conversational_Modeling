@@ -1,0 +1,45 @@
+seed: 42
+
+paths:
+  source_csv:    AnnoMI/AnnoMI-simple.csv
+  raw_dir:       data/raw
+  processed_dir: data/processed_ctx2
+  tokenized_dir: data/tokenized_ctx2
+  output_dir:    data/outputs_ctx2_stage1
+
+data:
+  dataset_name: annomi_simple
+  copy_source_to_raw: false
+  transcript_id_column: transcript_id
+  utterance_id_column: utterance_id
+  speaker_column: interlocutor
+  text_column: utterance_text
+  topic_column: topic
+  mi_quality_column: mi_quality
+  timestamp_column: timestamp
+  transcript_metadata_fields:
+    - video_title
+    - video_url
+  turn_attribute_fields:
+    - main_therapist_behaviour
+    - client_talk_type
+
+task:
+  target: client_talk_type
+  speaker: client
+  allowed_labels: [change, neutral, sustain]
+  context_turns: 2
+
+splits:
+  train_ratio: 0.70
+  val_ratio: 0.15
+  test_ratio: 0.15
+  stratify_by: mi_quality
+
+tokenizer:
+  type: whitespace
+  hf_model_name: distilbert-base-uncased
+  save_tokenized_splits: false
+
+baseline:
+  enabled: false

@@ -1,0 +1,14 @@
+seed: 42
+paths:
+  train_jsonl:    data/processed_ctx4/train.jsonl
+  val_jsonl:      data/processed_ctx4/val.jsonl
+  test_jsonl:     data/processed_ctx4/test.jsonl
+  embeddings_dir: data/embeddings_ctx4
+  model_dir:      data/models
+embedding:
+  type: sentence_transformer
+  max_features: 4096
+  lowercase: true
+  ngram_range: [1, 2]
+  sentence_transformer_model: sentence-transformers/all-MiniLM-L6-v2
+  batch_size: 32

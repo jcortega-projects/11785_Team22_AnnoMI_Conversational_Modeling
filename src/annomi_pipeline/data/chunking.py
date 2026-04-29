@@ -110,6 +110,103 @@ def chunk_conversation(
     return chunk_records
 
 
+def build_client_utterance_examples(
+    conversation: Conversation,
+    context_turns: int,
+    allowed_labels: set[str],
+    label_attribute: str = "client_talk_type",
+    speaker_label: str = "client",
+) -> list[dict[str, Any]]:
+    """Build per-utterance examples targeting client_talk_type prediction.
+
+    Each example corresponds to a single client utterance whose label is in
+    ``allowed_labels``. When ``context_turns > 0`` the input text is the
+    current client utterance prefixed by up to ``context_turns`` preceding
+    turns (causal-only — never future turns). The target row is always the
+    client utterance itself; therapist turns may appear in the context but
+    never as targets.
+    """
+
+    if context_turns < 0:
+        raise ValueError("context_turns must be >= 0")
+
+    examples: list[dict[str, Any]] = []
+    chunk_id = 0
+    for index, turn in enumerate(conversation.turns):
+        if str(turn.speaker).strip().lower() != speaker_label:
+            continue
+        raw_label = turn.attributes.get(label_attribute)
+        if raw_label is None:
+            continue
+        label = str(raw_label).strip().lower()
+        if label in {"", "n/a", "nan"}:
+            continue
+        if label not in allowed_labels:
+            continue
+
+        start = max(0, index - context_turns)
+        window = conversation.turns[start : index + 1]
+        text = (
+            turn.text.strip()
+            if context_turns == 0
+            else _format_chunk_text(window)
+        )
+        examples.append(
+            {
+                "example_id": f"{conversation.transcript_id}_{turn.utterance_id}",
+                "transcript_id": conversation.transcript_id,
+                "chunk_id": chunk_id,
+                "utterance_id": turn.utterance_id,
+                "start_utterance": window[0].utterance_id,
+                "end_utterance": turn.utterance_id,
+                "text": text,
+                "turn_count": len(window),
+                "topic": conversation.topic,
+                "mi_quality": conversation.mi_quality,
+                "metadata": {
+                    **conversation.transcript_metadata,
+                    "speaker": turn.speaker,
+                    "context_turns": context_turns,
+                    "client_talk_type": label,
+                    "utterance_ids": [t.utterance_id for t in window],
+                    "speaker_sequence": [t.speaker for t in window],
+                },
+            }
+        )
+        chunk_id += 1
+    return examples
+
+
+def build_client_utterance_splits(
+    conversations: list[Conversation],
+    split_ids: dict[str, list[int | str]],
+    context_turns: int,
+    allowed_labels: set[str],
+    label_attribute: str = "client_talk_type",
+) -> dict[str, list[dict[str, Any]]]:
+    """Apply :func:`build_client_utterance_examples` per split."""
+
+    transcript_to_split = {
+        transcript_id: split_name
+        for split_name, transcript_ids in split_ids.items()
+        for transcript_id in transcript_ids
+    }
+    split_records: dict[str, list[dict[str, Any]]] = {"train": [], "val": [], "test": []}
+    for conversation in conversations:
+        split_name = transcript_to_split.get(conversation.transcript_id)
+        if split_name is None:
+            continue
+        split_records[split_name].extend(
+            build_client_utterance_examples(
+                conversation=conversation,
+                context_turns=context_turns,
+                allowed_labels=allowed_labels,
+                label_attribute=label_attribute,
+            )
+        )
+    return split_records
+
+
 def chunk_splits(
     conversations: list[Conversation],
     split_ids: dict[str, list[int | str]],

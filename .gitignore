@@ -32,3 +32,4 @@ src/annomi_pipeline/scripts/run_stage3.py
 src/annomi_pipeline/training/
 tests/test_dataset.py
 tests/test_policy.py
+.env

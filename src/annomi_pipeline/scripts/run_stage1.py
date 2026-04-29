@@ -6,7 +6,7 @@ import argparse
 import logging
 from pathlib import Path
 
-from annomi_pipeline.data.chunking import chunk_splits
+from annomi_pipeline.data.chunking import build_client_utterance_splits
 from annomi_pipeline.data.ingestion import (
     build_conversations,
     load_annomi_dataframe,
@@ -103,11 +103,33 @@ def main() -> None:
         seed=int(config.get("seed", 42)),
     )
     conversations = build_conversations(dataframe, data_config)
-    split_records = chunk_splits(conversations, split_ids, config["chunking"])
+
+    task_config = config["task"]
+    allowed_labels = {str(label).strip().lower() for label in task_config["allowed_labels"]}
+    context_turns = int(task_config.get("context_turns", 0))
+    split_records = build_client_utterance_splits(
+        conversations=conversations,
+        split_ids=split_ids,
+        context_turns=context_turns,
+        allowed_labels=allowed_labels,
+        label_attribute=str(task_config.get("target", "client_talk_type")),
+    )
+
+    label_to_id = {label: idx for idx, label in enumerate(sorted(allowed_labels))}
+    id_to_label = {idx: label for label, idx in label_to_id.items()}
+    write_json(
+        processed_dir / "label_mapping.json",
+        {"label_to_id": label_to_id, "id_to_label": id_to_label},
+    )
 
     for split_name, records in split_records.items():
         write_jsonl(processed_dir / f"{split_name}.jsonl", records)
-        LOGGER.info("Wrote %s chunk examples for %s", len(records), split_name)
+        LOGGER.info("Wrote %s utterance examples for %s", len(records), split_name)
+        # Validation: every example must have an allowed label and be a client turn.
+        for record in records:
+            label = record["metadata"]["client_talk_type"]
+            assert label in allowed_labels, f"Unexpected label {label} in {split_name}"
+            assert str(record["metadata"]["speaker"]).lower() == "client"
 
     if tokenized_dir is not None:
         tokenized_splits, token_report = build_tokenized_splits(
@@ -133,7 +155,8 @@ def main() -> None:
         baseline_summary = run_baseline_experiments(
             conversations=conversations,
             split_ids=split_ids,
-            base_chunk_config=config["chunking"],
+            allowed_labels=allowed_labels,
+            label_attribute=str(task_config.get("target", "client_talk_type")),
             baseline_config=baseline_config,
             output_dir=output_dir,
         )

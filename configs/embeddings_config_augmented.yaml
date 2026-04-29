@@ -1,0 +1,19 @@
+seed: 42
+
+paths:
+  # Augmented training split — real + accepted synthetic rows
+  train_jsonl: data/processed/train_augmented.jsonl
+  # Val and test are unchanged — same splits as baseline
+  val_jsonl:   data/processed/val.jsonl
+  test_jsonl:  data/processed/test.jsonl
+  # Write to a separate directory so baseline embeddings are untouched
+  embeddings_dir: data/embeddings_augmented
+  model_dir: data/models
+
+embedding:
+  type: sentence_transformer
+  max_features: 4096
+  lowercase: true
+  ngram_range: [1, 2]
+  sentence_transformer_model: sentence-transformers/all-MiniLM-L6-v2
+  batch_size: 32

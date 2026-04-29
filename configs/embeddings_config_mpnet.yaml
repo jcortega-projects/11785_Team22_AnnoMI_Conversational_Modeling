@@ -1,0 +1,13 @@
+seed: 42
+
+paths:
+  train_jsonl:    data/processed/train.jsonl
+  val_jsonl:      data/processed/val.jsonl
+  test_jsonl:     data/processed/test.jsonl
+  embeddings_dir: data/embeddings_mpnet
+  model_dir:      data/models
+
+embedding:
+  type: sentence_transformer
+  sentence_transformer_model: sentence-transformers/all-mpnet-base-v2
+  batch_size: 32

@@ -1,0 +1,866 @@
+{"text": "Sure.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, but only on the weekend.", "topic": "reducing alcohol consumption", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "Yeah. Uh, maybe a couple more.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "So, uh, are you saying I drink too much?", "topic": "reducing alcohol consumption", "true": "sustain", "pred": "neutral", "error": null}
+{"text": "Well, I-- If-if I was getting fallen down drunk or if I drink every night. Um, it's not like I get sloppy drunk or anything.", "topic": "reducing alcohol consumption", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "So I'm already at the week limit. And then I have four beers a night. Are you sure?", "topic": "reducing alcohol consumption", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "I have five or six beers when I go out with friends to a bar. It's not a problem for me.", "topic": "reducing alcohol consumption", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "Well, I don't consider my drinking binge drinking.", "topic": "reducing alcohol consumption", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "I don't chug a lot of beers in a row. I have about five or six beers throughout the entire evening.", "topic": "reducing alcohol consumption", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "But I'm healthy. What health problems are you talking about?", "topic": "reducing alcohol consumption", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "Well, I didn't know about those things.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Well, I-I like beer. I like the way it tastes, I like the way it makes me feel. Uh, like when I'm around friends and it's not a problem for me.", "topic": "reducing alcohol consumption", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "Well, that was fine until I came here, uh, but now that I know about the health risk, uh, I have something I gotta think about.", "topic": "reducing alcohol consumption", "true": "change", "pred": "change", "error": null}
+{"text": "E-exactly.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "Hmm, I'm not sure. Uh, something I have to think about.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Uh, I don't know. Maybe if I got sick or something, uh, maybe I'd wanna change things then.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "Yeah.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Sounds good.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Well, doc, I know you told me that I need to lose weight. And even though the scale didn't show today, I was able to lose about 5 pounds, but then I gained it right back.", "topic": "weight loss; diet", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "No, by all means. I know we have to discuss it.", "topic": "weight loss; diet", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I started watching what I ate and I ate less. I've been eating more fruits and vegetables. I've also been walking a lot. I'm walking up to 20 minutes a day now. I saw the weight come slowly off, um, and I felt better. But then when I watched it come back on again, you know, I gave up.", "topic": "weight loss; diet", "true": "change", "pred": "change", "error": null}
+{"text": "I felt great and I felt really proud of myself. I thought that this was something that I could do.", "topic": "weight loss; diet", "true": "change", "pred": "change", "error": null}
+{"text": "Well, I think it's because I've been eating more fruits and vegetables, that- that's it.", "topic": "weight loss; diet", "true": "sustain", "pred": "change", "error": null}
+{"text": "To be honest, I have four or five -- four to six glasses of orange juice a day. Um, I have fruit for lunch and breakfast. I have, uh, usually one to two servings of a vegetable like lettuce or broccoli with thinner.", "topic": "weight loss; diet", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "No, I didn't know. Um, but doesn't the fruit- food pyramid classify, um, fruit juice as a- a serving?", "topic": "weight loss; diet", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Well, this changes quite a bit. I mean, here I'm thinking that my fruit intake is making me healthier and actually it's making me fatter.", "topic": "weight loss; diet", "true": "change", "pred": "change", "error": null}
+{"text": "Obviously, I need to cut back on the fruit juice. But boy, do I love that OJ.", "topic": "weight loss; diet", "true": "change", "pred": "sustain", "error": null}
+{"text": "Um, six or seven.", "topic": "weight loss; diet", "true": "change", "pred": "neutral", "error": null}
+{"text": "I guess it's because I know that I need to do it to lose the weight.", "topic": "weight loss; diet", "true": "change", "pred": "change", "error": null}
+{"text": "Yes.", "topic": "weight loss; diet", "true": "change", "pred": "neutral", "error": null}
+{"text": "Getting the fruit juice of the house because I know if it's there I'll drink it. My wife does the shopping for us, so maybe if I ask her not to get the juice, that would solve it.", "topic": "weight loss; diet", "true": "change", "pred": "change", "error": null}
+{"text": "I suppose I could replace it with, um, a low-calorie drink or drink more water.", "topic": "weight loss; diet", "true": "change", "pred": "change", "error": null}
+{"text": "I'd say I didn't have any and I substituted it with, um, sugar-free drinks.", "topic": "weight loss; diet", "true": "change", "pred": "neutral", "error": null}
+{"text": "A 10.", "topic": "weight loss; diet", "true": "change", "pred": "neutral", "error": null}
+{"text": "Great. It sounds good to me.", "topic": "weight loss; diet", "true": "change", "pred": "neutral", "error": null}
+{"text": "Okay.", "topic": "weight loss; diet", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Sure.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Okay.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Not really, I haven't been stressed. Uh, I've been working steady, you know, these days, I'm glad to have a job, I really am happy that I'm working, so.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Okay.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I don't smoke. I smoked, you know, as a young adult, quit 20 years ago. I went cold turkey. I was proud of that, haven't even thought about smoking.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Uh, I do drink beer, I drink, you know, two to three pints on weekdays, sometimes on weekends, maybe four or five.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Well, I-- you know, my pressure has been high for years and, um, you know.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Maybe a little bit.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "Okay.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I don't use heroin or cocaine. I've never even thought about using the hard drugs. Back in school, 20 years or so ago, I smoked reefer, you know. Once I got out of school, I haven't used that at all.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "No, I don't- I don't, uh, really like the idea of taking pills. Uh, as a matter of fact, a couple of years ago, I had this jaw surgery. They gave me a prescription for Percocet. I took one, maybe feel weird. I think they're still sitting in the medicine cabinet.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "Well, I guess I'll try.", "topic": "reducing alcohol consumption", "true": "change", "pred": "change", "error": null}
+{"text": "Okay.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I don't really know what issues I need to sort.", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I don't really know what issues I need to-", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "-sort. It's just a bit of cash.", "topic": "reducing gambling", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "So\u2014", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Mm-hmm.", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Um, I don't think there is much to sort. I have a few drinks like everybody else my age.", "topic": "reducing gambling", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "Pokies are at the pubs for the thrills, it's no worries.", "topic": "reducing gambling", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "It's not an issue.", "topic": "reducing gambling", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "Uh, I suppose when you've got no money in the pocket at the end of the night.", "topic": "reducing gambling", "true": "change", "pred": "sustain", "error": null}
+{"text": "And some nights you do, so.", "topic": "reducing gambling", "true": "change", "pred": "neutral", "error": null}
+{"text": "Well, I don't really keep track.", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I don't know. A few times a week.", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I don't know. It's if you're at the pub, you're, you know, that-that you're out there.", "topic": "reducing gambling", "true": "sustain", "pred": "neutral", "error": null}
+{"text": "Mm-hmm.", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Mm-hmm.", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I don't know. A few times, probably when I have it, I might drink a drink.", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "It's the unlucky ones.", "topic": "reducing gambling", "true": "sustain", "pred": "neutral", "error": null}
+{"text": "Mm.", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "A bit of a rush, I suppose.", "topic": "reducing gambling", "true": "sustain", "pred": "neutral", "error": null}
+{"text": "Yeah, I suppose.", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I don't know, I suppose it's lead me to be here, maybe. I don't know.", "topic": "reducing gambling", "true": "sustain", "pred": "neutral", "error": null}
+{"text": "Mm-hmm.", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Much the same, bunch of party girls.", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Um, I don't know. I suppose they walk away a bit quicker than me.", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Sarah.", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I don't know.", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "We'd just have a laugh.", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Uh, no friends or friends should-- She accepts me for who I am.", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Mm-hmm.", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "At times.", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I don't know. You don't have any money, so-- And that she-she'll probably be quite happy if I stopped.", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "But, um, I don't know. She-she doesn't really discuss it with me.", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Mm.", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Mm.", "topic": "reducing gambling", "true": "change", "pred": "neutral", "error": null}
+{"text": "Um, I don't know if pfft-- maybe I wouldn't be here if it wasn't for gambling 'cause-", "topic": "reducing gambling", "true": "change", "pred": "neutral", "error": null}
+{"text": "-you know, suppose in some way, I took the money for-for that but I don't know, you know? It's just a few dollars here and there and I didn't really think about it at the time, so-", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "-I don't know.", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I don't know. I-I don't think it would have been too much of a problem. I mean I'm not a bad person, I wouldn't have, you know, wouldn't have continued to steal. It was just at the time that I was going through a rough patch. I wasn't intending to make it a long-term thing.", "topic": "reducing gambling", "true": "change", "pred": "sustain", "error": null}
+{"text": "Yeah.", "topic": "reducing gambling", "true": "change", "pred": "neutral", "error": null}
+{"text": "I don't know, you tell me.", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Uh, I suppose I didn't expect the-the money would've added up to what it did, so I guess, at the time, I- [sighs] I wasn't thinking of the reality of it, you know, building up, so-", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "-you know, it did, so I'm here-", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "-so, I suppose\u2014", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "It's a couple of grand or something.", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Well, that a little bit here, a little bit there is nothing I didn't work for. [chuckles] I worked [unintelligible 00:10:35] and I was getting paid $18 an hour-", "topic": "reducing gambling", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "-$25, you do the math. [chuckles] And that's gonna support me?", "topic": "reducing gambling", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "I don't know. I'm usually an open person. [chuckles]", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Just provided it will help me deal with it.", "topic": "reducing gambling", "true": "change", "pred": "change", "error": null}
+{"text": "Yeah.", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I don't know. I am just usually pretty open with people. It's a bit different here tonight and-", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "-just not knowing what to expect then\u2014", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I don't know. I suppose I'm saying that the money did add up, and that was enough for me to end up here, so-", "topic": "reducing gambling", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "-I suppose I'm here for a reason. [chuckles]", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I didn't have a choice. [chuckles]", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Mm.", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Mm.", "topic": "reducing gambling", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, I hope so. Um, my workplace has just gone smoke-free. I-I'm not-not very happy about it. I'm gonna keep smoking, but I was wondering if there's anything that-that can help me like get through the day. It's like, you know, go get my beer and smoke cigarettes after work.", "topic": "smoking cessation", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "No. I'm not gonna quit smoking. I mean, I like it. It helps me relax. So, I mean, I don't see what the big deal is.", "topic": "smoking cessation", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "I mean, I smoke a little less than a pack a day. It's not too bad. Um, I've probably smoked for the last five years, but I-I-I mean, could quit if I wanted to, but I don't really want to right now.", "topic": "smoking cessation", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "Sure. I can quit.", "topic": "smoking cessation", "true": "change", "pred": "change", "error": null}
+{"text": "Well, I mean, I don't see why I couldn't, I-- although I have not ever tried to quit, it's just something that I do for fun, you know, on breaks at work, in the morning, and after work.", "topic": "smoking cessation", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "I am probably a two. I-I haven't even thought about quitting and until this great announcement at work today, I- I'm totally not gonna quit smoking.", "topic": "smoking cessation", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "Well, I mean, anything's possible. I mean, I-I guess I could maybe be convinced. Yeah. Is there some-- I mean, are there things I can try that would make me like want to quit smoking?", "topic": "smoking cessation", "true": "change", "pred": "change", "error": null}
+{"text": "Okay. Well, that\u2019s good information. I mean, I'm not gonna do anything today. I just need to know my options, but that's encouraging. If I decided to quit smoking, I-I do have at least tools to help me.", "topic": "smoking cessation", "true": "sustain", "pred": "change", "error": null}
+{"text": "I don't know. I guess if my friends, like if one of my friends decided to like quit with me, that would probably help too, but I-- all my friends love to smoke, so I don't see that happening in the near future.", "topic": "smoking cessation", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "That's a good point. I hadn't really thought about that. That-that's a good idea. Yeah.", "topic": "smoking cessation", "true": "change", "pred": "neutral", "error": null}
+{"text": "Okay. Well, thanks a lot.", "topic": "smoking cessation", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Um, well, you know, I have a lot of anxiety, and so there's this test that I have to take. It's a big test and I've kind of been putting it off just 'cause I get very anxious. I don't trust in myself that I'm going to do good at it. Um, and so that's something that's like always on my mind, it's been on my mind for many years and it's like, I gotta just do it. Um, but I always stop myself from doing that because of the anxiety. And I just want to, I don't want to feel that way.", "topic": "increasing self-confidence", "true": "change", "pred": "change", "error": null}
+{"text": "Yeah.", "topic": "increasing self-confidence", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Exactly. So, I just avoid it and put it off.", "topic": "increasing self-confidence", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "Um, maybe like a four or five.", "topic": "increasing self-confidence", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I mean, because I-I have it set up after like so many years, so I still have a ton of anxiety about it, but I think I'm like kind of making it, maybe that first step. And so that's why I would rate it as like a four or five because I'm making that first step, but it's still scary for me.", "topic": "increasing self-confidence", "true": "change", "pred": "change", "error": null}
+{"text": "Yeah.", "topic": "increasing self-confidence", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yes. And I already kind of put it off after s-scheduling it too. So, um, now I'm actually enjoying that because I-I already like changed date and everything. So now it's actually coming.", "topic": "increasing self-confidence", "true": "neutral", "pred": "change", "error": null}
+{"text": "Yes.", "topic": "increasing self-confidence", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Um, well I think it's this kind of long time coming. I just need to do it and then I can figure out, if I don't pass, I have to wait three more months to do it. And then I just study for the next three months. And if I do, then I can have that weight lifted off my shoulders cause it's been all a lot of weight on me and I think about it every single day. And I'm just sick of thinking about it.", "topic": "increasing self-confidence", "true": "change", "pred": "change", "error": null}
+{"text": "Yeah. But then I do worry, you know, that negative talk that, you know, when you have anxiety. So then I worry about if I don't pass it, you know, like people are going to ask me how I did and if I don't pass it I'm gonna have to tell them, it's embarrassing for me. Um, so that makes me really anxious.", "topic": "increasing self-confidence", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "Right.", "topic": "increasing self-confidence", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Uh, I would say maybe like four or five years ago, um, I had to do a recording for work and I did not want to do it. I was trying to find every way that I can get out of during this recording. And, um, and then I played my recording and because of the way sometimes I carry myself, like not confident and very anxious, um, I think other people don't always believe in me.", "topic": "increasing self-confidence", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "And so, um, when I played the recording, it actually ended up being one of the best recordings and like my supervisor and our national consultant, they were very like shocked about it because it because of just was the way I carried myself. So I thought, I don't really like compliments that makes me, um, anxious too again people compliment me, but it was a nice feeling because I really didn't trust in myself. And to know that I did a good job.", "topic": "increasing self-confidence", "true": "neutral", "pred": "change", "error": null}
+{"text": "Um, it made me feel good.", "topic": "increasing self-confidence", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, I did.", "topic": "increasing self-confidence", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "increasing self-confidence", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I mean, I think again, like all that anxiety, the same anxiety I had with that I have with those tests. And so, um, but that if I pass this test, if I could have that same feeling that I had, like when I did a good job like the-- you know, I mean, I would like to have that feeling again.", "topic": "increasing self-confidence", "true": "change", "pred": "change", "error": null}
+{"text": "You know.", "topic": "increasing self-confidence", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Right", "topic": "increasing self-confidence", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "increasing self-confidence", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Well, considering this test is coming on the way in a few days, um, I think, for me and just like practicing and just really seeing how I do and if I do well, then I think my confidence might go up a little bit.", "topic": "increasing self-confidence", "true": "change", "pred": "change", "error": null}
+{"text": "And maybe just having that faith in myself that, you know, that I can do it instead of just thinking that I can't.", "topic": "increasing self-confidence", "true": "change", "pred": "change", "error": null}
+{"text": "Yeah. Mm-hmm.", "topic": "increasing self-confidence", "true": "change", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "increasing self-confidence", "true": "change", "pred": "neutral", "error": null}
+{"text": "Thank you.", "topic": "increasing self-confidence", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Okay.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Uh, well, my name is Andrea, as you know, I'm, uh, in the marching band. I play the tenor sax.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah. I'm involved in music. So I'm also in the jazz band, the wind ensemble, and um, yeah, that's about\u2014", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I'm an IB student.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Well, saxophone. I started about four years ago, but I've been involved in music for about 10 years now, so.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I started off on the violin first.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "So I played that for like six years, once a clarinet, dabbled here and there with different things. And then I found the one- the one for me.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, the tenor sax.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Marching band since freshman year. So like three years.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "It's fun. It's a- it's a lot of work, long summers taught, but it's fun.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Oh, I really like the-the group setting.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "You know, getting to work with my other classmates and things like that. And putting on this entire show-", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "-it's very exciting, very exhilarating once you're in competition.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "It's very cool.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I have, um, you know, I have two-two separate groups. I have my friends from class and then my friends from bra-- from band.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "So.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Oh, well I have one brother he's older than me, about nine years older than me.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "And, uh, my parents and my dog. [laughs]", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "He's a golden retriever.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Charlie.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "He's a big boy. Yeah.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah. He's about eight years old now.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Uh, well, I'm planning on going to school. I'd like to become a doctor one day, so.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I'm interested in psychology, psychiatry, something like that, so.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, psychology, I haven't really thought too about which school, I mean, I-", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Everyone wants to shoot for the Ivy leagues, so [chuckles]", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Uh, they're pretty good, you know, high three-point somethings.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Uh, I usually go out with my friends. Uh, we'll go to the movies or we'll most likely we'll just meet up at someone's house-", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "-and just hang out and things.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Sometimes, [chuckles] I'm gonna be honest sometimes.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Um, depending on how much schoolwork there is When there's not, it might be like every other weekend or like three weekends out of the month or something like that.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "A little, yeah.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Um, I don't, we don't get blackout drunk or anything. It's more of like a little tipsy kind of thing.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "I have gotten blackout drunk before-", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "-but I kind of did that, learned my lesson, didn't like it.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "change", "error": null}
+{"text": "Like how many drinks?", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Um, it was a good amount. It was the first time I ever drank and it was like three or four cups, but it was mixing different things.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "So, I'm not-- Yeah.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah. Yes. Not all of them, but some of them do.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "More or less the same amount. So right now the most we'll have is maybe like one cup after that one time, but sometimes one or two, but they can be kind of heavy.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "Oh, it's a red, you know, typical. Yeah.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Mm-hmm.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Mm-hmm.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "A little bit.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Not too much, to be honest. I-I've always thought since it's, you know, within my small group of friends-", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "-and we usually sleep over each other's house, we don't get into the problems of drinking and driving, and possibly sexual assaults and things like that.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "But I haven't really thought about possible alcoholism or anything.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "Okay.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, I think I could. I don't need it. For instance, it-it is-- it is used as a kind of, like, let's get the party going.", "topic": "reducing alcohol consumption", "true": "change", "pred": "change", "error": null}
+{"text": "But we haven't always had it-", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "-obviously. So, I think it would be possible to stop drinking.", "topic": "reducing alcohol consumption", "true": "change", "pred": "change", "error": null}
+{"text": "Um, I would probably start off by like, because my friends are also involved, so I'd be like, \"Hey, guys, I don't think I'm gonna drink today.\"", "topic": "reducing alcohol consumption", "true": "change", "pred": "change", "error": null}
+{"text": "And kind of see how that goes. Because\u2014", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "Yeah. It's, you know, it's one thing to control my own drinking, and it's another thing when everyone else around me is drinking and then there's like that pressure-", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "-of, \"Oh, they're gonna think I look stupid.\"", "topic": "reducing alcohol consumption", "true": "sustain", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "My close ones, I know they wouldn't be, you know, have a problem with that. But the ones that I'm not that close with, but I'll still like hang out with-", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "-those are probably the ones that like might ostracize me for something or.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Probably, might be too judgmental.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Okay.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "Okay.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "Um, I think-- I think the possibility.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "I think if you make a good plan, like I think I'd be able to follow through with it.", "topic": "reducing alcohol consumption", "true": "change", "pred": "change", "error": null}
+{"text": "Yeah. I think I can do that.", "topic": "reducing alcohol consumption", "true": "change", "pred": "change", "error": null}
+{"text": "Um, not-not really. The ones that drink more are the ones like my class friends. My band friends, we\u2019re focused on band-", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "-so I can't really\u2014", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Not too much, to be honest.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Mm-hmm.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Um, what should I-- uh, yeah, I do. So what should I say like once, let's say, I hang out with my friends and they're like, \"Hey, why aren't you- why aren't you drinking?\"", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "Like how should I go about that situation?", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "Mm-hmm.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "Mm.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "And-and you know, like professional life as well.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "I don't want that biting me in the butt, [chuckles] in the back.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Okay.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "I think I can do that.", "topic": "reducing alcohol consumption", "true": "change", "pred": "change", "error": null}
+{"text": "It'd be easier as-- You know, as a group we-we all work together to become better.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "No. I think- I think I'm good.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "Okay.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Okay.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "Sound good.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "Well, I remember you. Yeah, we met once before.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Well, I went once.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah and, um, it was very-very beautiful to see and the instructor was very nice, but I felt kind of self-conscious because I'm still in my walker.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "sustain", "pred": "neutral", "error": null}
+{"text": "And I had to sit in the chair. I couldn't, you know, do what they were doing.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "sustain", "pred": "neutral", "error": null}
+{"text": "So, it's-- it was-- I simply felt self-conscious.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "sustain", "pred": "neutral", "error": null}
+{"text": "A lot self-conscious.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "sustain", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "sustain", "pred": "neutral", "error": null}
+{"text": "Well, like Dr. Fields told me, it helps with balance, and I'm still having the wobblies. So, I was really hoping that I could get to the point where I could benefit from what they had to offer. Um, yeah, mostly my balance, mostly my balance.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "neutral", "pred": "change", "error": null}
+{"text": "Not yet.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I wanna go home.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "change", "pred": "neutral", "error": null}
+{"text": "Yes, I really do.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "change", "pred": "neutral", "error": null}
+{"text": "[sighs] Everything. I want to be with my little dog.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "change", "pred": "change", "error": null}
+{"text": "He's really so cute, and I miss my garden.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "And I just miss being independent, going to sleep when I want to sleep and getting up when I want to get up and-and, uh, cooking for myself. The independence. Sure I miss being independent.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "change", "pred": "sustain", "error": null}
+{"text": "Yes.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "change", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Well, they told me that I need to be able to walk down the hallway and back, even with the walker, being secure and not with the wobblies.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "And I haven't gotten there yet.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "sustain", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "change", "pred": "neutral", "error": null}
+{"text": "I-I don't want to fall.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "I-I've had friends that had that happen. So, um, I-I agree a little, with some hesitation, but I do agree.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Oh, it's better.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "change", "pred": "neutral", "error": null}
+{"text": "It still hurts. It- it's-- I'm getting better. I'm-I'm getting better. It's not quite as painful.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "neutral", "pred": "change", "error": null}
+{"text": "Yeah, so-", "topic": "increasing activity; taking medicine / following medical procedure", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yes.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "change", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "[sighs] Um, yes-yes I-I do because I-- my friend, I think I told you, really, really loves it and I just, I wish I could go back, and yes I do. I'm not making much sense, but I do.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "change", "pred": "change", "error": null}
+{"text": "Oh, I don't really know yet after just one time.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah. It's-it's-- I can't make that-- It wouldn't be fair for me to say it does or doesn't. It didn't that one time, but you know.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, I do.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, I would.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "change", "pred": "change", "error": null}
+{"text": "Well, I'd have to make the arrangements again, that was a little complicated, and, um, I'd have to get my head straight about feeling self-conscious, because I-I know that nobody's really looking at me, but I have to convince myself.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "sustain", "pred": "neutral", "error": null}
+{"text": "Yeah, and the arrangement, arrangements a little complicated.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "sustain", "pred": "neutral", "error": null}
+{"text": "That I can make the arrangement?", "topic": "increasing activity; taking medicine / following medical procedure", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Five.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I-I mean, I know I can, but it's really difficult.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "sustain", "pred": "neutral", "error": null}
+{"text": "That I'm doing it by myself.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "change", "pred": "sustain", "error": null}
+{"text": "And I would really fe-- If I could have some sup-- Like if somebody could help me do it.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "change", "pred": "change", "error": null}
+{"text": "My-my daughter can't visit that often and, um-", "topic": "increasing activity; taking medicine / following medical procedure", "true": "sustain", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I would.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "change", "pred": "change", "error": null}
+{"text": "I would.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "change", "pred": "change", "error": null}
+{"text": "Well, she's-- she could, but I'd have to wait at least a week.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I would.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "change", "pred": "change", "error": null}
+{"text": "Yeah, yeah. Is that possible?", "topic": "increasing activity; taking medicine / following medical procedure", "true": "change", "pred": "neutral", "error": null}
+{"text": "Uh-huh.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "That would- that would be good. And then as far as feeling self-confident, I'd have to do that myself.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "change", "pred": "change", "error": null}
+{"text": "Um, I can't think of any.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "change", "pred": "neutral", "error": null}
+{"text": "That's-that's the main thing-", "topic": "increasing activity; taking medicine / following medical procedure", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "-the arrangements.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yes.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "change", "pred": "neutral", "error": null}
+{"text": "That's-- Yeah.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "change", "pred": "neutral", "error": null}
+{"text": "That's true.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "change", "pred": "neutral", "error": null}
+{"text": "You would?", "topic": "increasing activity; taking medicine / following medical procedure", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "That would really help.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "change", "pred": "neutral", "error": null}
+{"text": "Okay.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah. Thank you.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Okay.", "topic": "increasing activity; taking medicine / following medical procedure", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I'm good, thanks.", "topic": "completion of community service", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Um, I guess everything's fine. I think my caseworker mentioned something about community service that I have to do or something. I don't know.", "topic": "completion of community service", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I'm not sure of that.", "topic": "completion of community service", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, I know that she said I have to get so many hours in, but I don't- I don't know. I kind of was half-listening.", "topic": "completion of community service", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I know that I have to get it done by the end of my probation, except I forgot like how many hours or if I'm supposed to find it or someone else is gonna find it for me or I-I told you I'm confused.", "topic": "completion of community service", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yes.", "topic": "completion of community service", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Exactly, yeah.", "topic": "completion of community service", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, yeah.", "topic": "completion of community service", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Mm-hmm.", "topic": "completion of community service", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Um, yeah, I just, so I still have to find the community service hours myself?", "topic": "completion of community service", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Okay.", "topic": "completion of community service", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Okay.", "topic": "completion of community service", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Okay.", "topic": "completion of community service", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Okay, so I would do that. And then do you know, can I get all the 24 hours in in like a weekend or how does that work?", "topic": "completion of community service", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "[unintelligible 00:02:20]", "topic": "completion of community service", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Oh, yeah.", "topic": "completion of community service", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, I think, just to keep track of it better.", "topic": "completion of community service", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I think it's a good idea.", "topic": "completion of community service", "true": "change", "pred": "neutral", "error": null}
+{"text": "Okay.", "topic": "completion of community service", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I think that's it. I think I was just worried about who was gonna do it for me, but I know I have to, I guess, do it myself and that 25 hours has to be done. It seems like that's the time I'd have to get done.", "topic": "completion of community service", "true": "change", "pred": "change", "error": null}
+{"text": "Okay.", "topic": "completion of community service", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "All right, thank you.", "topic": "completion of community service", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Mm-hmm.", "topic": "smoking cessation", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Something like that.", "topic": "smoking cessation", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Uh, I vape. I have a pen, but I don't smoke it though.", "topic": "smoking cessation", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Um, a few times a month.", "topic": "smoking cessation", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I did a peppermint oil once, someone shared it with me.", "topic": "smoking cessation", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Mm-hmm.", "topic": "smoking cessation", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Well, I don't think it's going to hurt me.", "topic": "smoking cessation", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "Um, I don't know. It makes me relax, and it's fun to laugh with my friend.", "topic": "smoking cessation", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "Well, I don't want to get in trouble like at school.", "topic": "smoking cessation", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "Well, I can get suspended and I would get kicked off the team, the basketball team.", "topic": "smoking cessation", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "Right.", "topic": "smoking cessation", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "well, I was thinking to not use when basketball season start.", "topic": "smoking cessation", "true": "neutral", "pred": "change", "error": null}
+{"text": "Well, I play better when I'm not high.", "topic": "smoking cessation", "true": "neutral", "pred": "change", "error": null}
+{"text": "Well, I wouldn't get caught with using a pen, so I wouldn't get kicked off the basketball team.", "topic": "smoking cessation", "true": "change", "pred": "sustain", "error": null}
+{"text": "For about a month.", "topic": "smoking cessation", "true": "change", "pred": "neutral", "error": null}
+{"text": "Um, seven.", "topic": "smoking cessation", "true": "change", "pred": "neutral", "error": null}
+{"text": "Well, I'm pretty sure, um, I can stop using for a month. I want to play well.", "topic": "smoking cessation", "true": "change", "pred": "change", "error": null}
+{"text": "Uh, I don't know.", "topic": "smoking cessation", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Well, if I'm stressed or unhappy, that's when I usually wanna vape.", "topic": "smoking cessation", "true": "change", "pred": "sustain", "error": null}
+{"text": "Hmm, I like to play video games.", "topic": "smoking cessation", "true": "change", "pred": "neutral", "error": null}
+{"text": "I can play basketball with my friend Sarah.", "topic": "smoking cessation", "true": "change", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "smoking cessation", "true": "change", "pred": "neutral", "error": null}
+{"text": "Mm-hmm.", "topic": "smoking cessation", "true": "change", "pred": "neutral", "error": null}
+{"text": "Hi. Thank you.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Okay.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Okay.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Sure. Um, as you know, I'm Andrea, I, uh, I'm a junior I'm in the marching band. I play the tenor sax.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, I'm also in the-- I'm a bit of a band geek. [laughter] I play, you know, in the wind ensemble and the jazz band, things like that.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, [crosstalk].", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Oh, I started playing about 10 years ago, actually.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, I started on the violin first, and then I went on, explored a little with the piano, clarinet, finally found the tenor sax, and yeah.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Um, you know, just hanging out with my friends or go to the beach, things like that.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah [laughs].", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Uh, well I have one older brother he's about eight and a half old- years older than me. My parents, and I have a dog [laughs].", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "He's a Golden Retriever.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "My big boy.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "They're pretty good. Grades have been pretty all right. Still like 3.7 ish.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Uh, I'd like to, you know, I'd like to, of course, graduate high school, hopefully, go to a nice Ivy League school.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "But I mean, that might not happen. And then I'd like to go on and become a doctor. Study psychology and then become a psychiatrist or something.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Mm-hmm.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Um, I think a sense of community and belonging.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I think those two and, um, respect.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah. Well, I think community and belonging, I kind of related them. Um, you know how I said I was in the marching band?", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I really, you know, I really enjoy being in that team setting of, you know, being with other people and all working toward- together towards that one goal.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "And then in terms of respect, I-I kind of view that as one of like my major like rules. Like, I-I really do think respect is important, to respect myself and respect those around me, so.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I place great importance in that.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Mm-hmm.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yes, purpose.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yes.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Definitely, that's right.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Um, sometimes we just, you know, go to the movies, go to the beach, like I had said, or sometimes we just get together at someone's house, play some good board games and hang out.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, sometimes.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Uh, well it's mostly just for, for parties or party settings is kind of to get things going and get everything loosened up as they say.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "Yeah.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I'd say, um, on a not busy month, for instance, I'd say about like two weekends out of the month. Two or three.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "The days that we drink are mostly, like I said, they're parties, so it's more of that whole partying and dancing and, you know, having everyone have fun. And then when we don't, it's a lot more relaxed. It's a lot more hanging out, playing board games, watching a movie it's not yeah.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Definitely.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Um, I think of them as-as different, I think, you know, like in playing board games and things, it's meant to be relaxing.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "So it's nice to have like that kind of breather-", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "-versus with a party it's a lot more energetic it's, uh, after it all, it's very draining.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "But in the moment it's quite fun to dance and have fun.", "topic": "reducing alcohol consumption", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "Yeah.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Um, it's, you know, when we drink, we-we tend to have more fun because I guess we're not, you know, everyone's drinking together. We're a lot more loosened up and relaxed-", "topic": "reducing alcohol consumption", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "-and not really thinking about stresses or things like that, but it can be--When it's too much drinking, it can be- can be obviously bad.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "Um, a lot of times, it'll make- it'll make people stupid. [laughs] Yeah, you know, people make dumb decisions and things like that. We-we usually try to be as safe about it", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "-as possible. So we'll like sleep over at a friend's house. And so that, you know, we're not driving and it's mostly within our friend group. So we're not worried about strangers putting weird things in our drinks.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "But, um, definitely some of the ideas people can have when they're stup- when they're drunk and can be really stupid.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "Yeah", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Sometimes. Yeah.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Well, I, especially don't like it whenever me or one of my friends, like we drink too much and we end up like throwing up or things like that, that I don't- that's not fun.", "topic": "reducing alcohol consumption", "true": "change", "pred": "sustain", "error": null}
+{"text": "It's not.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "For me, that's happened to me once. It was the first time I ever drunk and it was- it was a lot, I didn't know what I was doing. I was mixing all kinds of weird things and just kind of taking anything everyone- anyone gave me", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "-and that didn't end well.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "But after that, I haven't- but I do have friends that still do sometimes, so I'll end up like having to take care of them or something and-", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "It kind of puts a downer on my- on my fun.", "topic": "reducing alcohol consumption", "true": "change", "pred": "sustain", "error": null}
+{"text": "Yeah.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah. People can get a little like sloppy, I guess. Like they're all loose, like with people in corners doing things that should be done in private-", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "-and that kind of stuff.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I just- I've, you know, I have an aunt who is an alcoholic. So I-I see like the issues that are involved and I've seen movies and things I know that drunk driving is an issue-", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "So, I, you know, I wanna be as safe as possible in those terms and be in a setting where like we can let loose but still be safe like in someone's house or sort of my parents will tell me something. But-- So, I- like I know that there are dangers involved and I guess I wanna limit that.", "topic": "reducing alcohol consumption", "true": "change", "pred": "change", "error": null}
+{"text": "And so be where I have fun.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "Yeah.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Mm-hmm.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Then it kind of defeats the purpose? [laughs]", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "In terms of what? In terms of respect?", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I think, well in a way, I do think that drinking is probably a form of disrespect to my own body because I'm not putting things- I'm putting things in it that shouldn't be there.", "topic": "reducing alcohol consumption", "true": "change", "pred": "change", "error": null}
+{"text": "And then-- But in terms of at- how it is I am respecting myself, I am- I'm respecting myself by like trying to stay in someone's house and like trying to limit my drinking so I don't get to that blackout like throwing up and everything.", "topic": "reducing alcohol consumption", "true": "sustain", "pred": "change", "error": null}
+{"text": "And try to, you know, let loose but still be in control of my behavior so I'm not gonna go somewhere with a person I met-", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "-into I don't know where to, I don't know what, and-", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "-things like that.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I usually-- Well, I start off like I make sure that I make my own drink so I know what's in it and how much is in it. So in that way I control how much I drink. So, I usually just, you know, get one of those cups and then make one drink. And then I'll try to make it last as long as possible. And I'll be like, \"All right, this is my one drink\" and I'm good in that way. I still have something in my cup so people aren't gonna be like, \"Oh, here. Have some more.\" I'd be like, \"No, I'm good. I have mine,\" and I'll still be, you know, having some to like let loose a little.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "For the most part, it works pretty well because, like I said, people, you know, people come asking me, trying to pressure me, I'll be like, \"No, I'm good. I have- You know, I still have something. I'll get some later.\" And I never end up getting anything. Oh, but sometimes they'll be like, \"Hey, let's take a shot,\" and everyone's gathered around like the kitchen or something ready to take a shot. And then at that point, I'll be like, \"Oh, well, maybe I can take one more.\" And that's when I start, you know, falling into-", "topic": "reducing alcohol consumption", "true": "change", "pred": "sustain", "error": null}
+{"text": "-way too much.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Mm-hmm.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Um, I'd like to make sure that I'd, you know, in terms of respecting myself and my body, I'd like to, you know, try to drink less.", "topic": "reducing alcohol consumption", "true": "change", "pred": "change", "error": null}
+{"text": "Like I-I-- You know, it is nice to let loose and have fun, but I'd also like it to be so, you know, I'm not damaging my body, you know.", "topic": "reducing alcohol consumption", "true": "change", "pred": "change", "error": null}
+{"text": "Like my liver doesn't work by the time I'm like 22.", "topic": "reducing alcohol consumption", "true": "change", "pred": "sustain", "error": null}
+{"text": "And, um, you know, have my friends on board with a similar mentality so we can kind of work at it together as a group, as a- as a community.", "topic": "reducing alcohol consumption", "true": "change", "pred": "change", "error": null}
+{"text": "Yeah.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I'd say about like-like a six or a seven.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I'd like to work on it but, you know, if I get around to it, I get around to it. If I don't, I don't.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Um, because I still think it's-it's important.", "topic": "reducing alcohol consumption", "true": "change", "pred": "sustain", "error": null}
+{"text": "I still, you know. Like I said, I don't want to hurt my body. Especially going to med school like I know how things affect your body and also affect your-your social and your school work and things like. I know that once I get to college, it's not- it's not gonna-gonna work out being, you know, drinking every weekend and then like trying to wake up early and go to school, take an exam. Like I know that's not- that's not feasible. It's not a good idea.", "topic": "reducing alcohol consumption", "true": "change", "pred": "change", "error": null}
+{"text": "Yeah.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I think I-", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I think if I made the decision that I was going to, for sure, then I think definitely like a 10 I know it'd be going through.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "change", "error": null}
+{"text": "It's just because I know that once I make the decision, I know I can do it. It's making the decision in the first place.", "topic": "reducing alcohol consumption", "true": "change", "pred": "change", "error": null}
+{"text": "Um, I'm thinking of maybe like trying to convince my friends without sounding, you know, dorky or something and be like, hey, you know, let's just stay in today. Like, let's not go out or something. Or just be like, hey, I'm not like-- I'm not going to drink today. And then even if my friends do, like being okay with them, drinking around me and not doing it, and then them being okay with me drinking-- Me not drinking and them doing whatever they want.", "topic": "reducing alcohol consumption", "true": "change", "pred": "change", "error": null}
+{"text": "Yeah.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I think so. I think it's-it's very feasible. I think it's possible.", "topic": "reducing alcohol consumption", "true": "change", "pred": "change", "error": null}
+{"text": "I think so. I think that's good.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, I'd like to.", "topic": "reducing alcohol consumption", "true": "change", "pred": "change", "error": null}
+{"text": "Perfect. Nice.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, yeah.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, it'd be good.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I guess it doesn't.", "topic": "reducing recidivism", "true": "change", "pred": "neutral", "error": null}
+{"text": "Uh, I guess I have to keep coming-coming back here and go into court and stuff.", "topic": "reducing recidivism", "true": "change", "pred": "neutral", "error": null}
+{"text": "Yeah. It kinda messes things up.", "topic": "reducing recidivism", "true": "change", "pred": "neutral", "error": null}
+{"text": "Yeah. It makes it harder.", "topic": "reducing recidivism", "true": "change", "pred": "neutral", "error": null}
+{"text": "Mm.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Like it's hard to get a job 'cause you have to say that you've done prison time and stuff, so it's pretty hard.", "topic": "reducing recidivism", "true": "change", "pred": "sustain", "error": null}
+{"text": "Yeah.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Mm.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Uh, I don't know if-if I would go into polytech, done courses there or something.", "topic": "reducing recidivism", "true": "change", "pred": "neutral", "error": null}
+{"text": "Yeah. Like, if they've got jobs now.", "topic": "reducing recidivism", "true": "change", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, yeah.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Just learn more about cars and just, kind of, hands-on job.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "[sighs] Mechanic, or panel [unintelligible 00:18:02], or just-- I wouldn't care, I just-- as long as it's cars.", "topic": "reducing recidivism", "true": "change", "pred": "neutral", "error": null}
+{"text": "Yes, pretty much.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Just I have to get that training, I guess, and then probably get a job.", "topic": "reducing recidivism", "true": "change", "pred": "change", "error": null}
+{"text": "Yeah.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Like, sort of, um, just at the polytech. I don't know what exactly it was, but\u2014", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "It took them like-- And, it took them like a year or something, and then they went into apprenticeship.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah. I could do it pretty easy. It's just, like, I probably know all this stuff already.", "topic": "reducing recidivism", "true": "change", "pred": "neutral", "error": null}
+{"text": "Like, well, I went out and picked some forms and stuff, but it's real confusing, like, having to apply, so I-I just couldn't-- I don't know. I couldn't do it.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, yeah.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, yeah. Passed around and everything.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, but I just-- Like, they wouldn't help me out, so-", "topic": "reducing recidivism", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "-I got some forms and-", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I asked- I asked them what I had to do, and they said I had to fill out some forms, but-", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "-well, the forms, it's too confusing.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, yeah. Well, I got one- I got one for panel [unintelligible 00:19:33], and one for, uh, uh, like, panel and paint-", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "-so, learning how to paint cars and stuff.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah. I was gonna fill them out there, but then I didn't get them, so I took them home, but I was gonna get Donna to help me, but I just didn't get around to it.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I didn't understand, like, what you're supposed to write down. Like, yeah. I'm not good at this, maybe too confusing.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I don't really deal with it. I s-- I don't really like writing.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "No.", "topic": "reducing recidivism", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "No, I'm just real messy, so people can't read it.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "[chuckles] Yeah, no. It's what they say, yeah.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, I am. [chuckles]", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah. Like, a computer or something. If you could write on a computer, I could do that.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "But, we don't have a computer.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Just ask to get someone else to do it I guess. I guess I could ask Donna, but it's been embarrassing.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Well, I don't know if it's that serious, it's just-", "topic": "reducing recidivism", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "-I'm sure most people can fill them out. I don't know, I just don't get it.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "No one. I guess you. You could do it. Would you do it?", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "No.", "topic": "reducing recidivism", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "Yeah.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Mm.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I guess, I'd go pick them up and I don't know, I guess I could ask Donna, but she'd probably help me, I don't really want to.", "topic": "reducing recidivism", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "Well, I don't know. Plus, well, I don't know if I could bother getting up at nine o'clock every morning and having to go to Polytec. I've got used to sleeping in.", "topic": "reducing recidivism", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "At night.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah. Uh, it would be cool if it's anything like school. Like, I didn't really enjoy school. [unintelligible 00:22:56] so writing and stuff, and I wouldn't wanna do that. If it's all hands-on though, it would be all good.", "topic": "reducing recidivism", "true": "sustain", "pred": "neutral", "error": null}
+{"text": "Yeah. No, it does get in the way. I just don't wanna do it.", "topic": "reducing recidivism", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "It's a waste of time.", "topic": "reducing recidivism", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "Yeah.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "For what?", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Of what? Well, I don't get it.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah. I can't.", "topic": "reducing recidivism", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "Oh, it's pretty [unintelligible 00:23:47], but, like, still-- I don't know, I'm not retarded, or anything. I can write and read.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Like--", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "No, not really. Yeah, I don't really enjoy it.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I don't know. Hopefully, not many-- not much, but that's what I wanna find out, I guess.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "It'd make everything easier.", "topic": "reducing recidivism", "true": "change", "pred": "neutral", "error": null}
+{"text": "Like-- I don't really like reading books or anything, so I don't really care about that but just, say, real-life stuff like going to the bank, and stuff like that-", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "-yeah, that have filling out forms.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, I didn't think about that.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, that'd suck if you had to read, like, a big manual or something. Hmm.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Mm.", "topic": "reducing recidivism", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Hi, Kathy, nice to meet you.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Okay.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Sure.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Absolutely. Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah. I got a DUI, and I was speeding, uh, during the DUI, obviously.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "No, I'm fine. Yeah", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "The night of the-the DUI is the last time I drank.", "topic": "avoiding DOI", "true": "neutral", "pred": "change", "error": null}
+{"text": "And then, you know, um, I guess I'm here 'cause my lawyer wants me to go through an assessment-", "topic": "avoiding DOI", "true": "sustain", "pred": "neutral", "error": null}
+{"text": "-uh, with you, and, um, I'm really not sure what it means or anything like that, but, uh, he said I'm supposed to come here and, uh, just tell the truth, is what he told me.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Okay.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Is it bad, or is it high or?", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Okay.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Okay", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah. He was, well, freaking out. He was--", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I think he was getting a little over the top a little bit, but, you know, again, whatever.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yes.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Uh, my friend was having a, um- a get together as it was birthday party in, uh, downtown, and, uh, you know, it's not like it's a normal thing, but, uh, I did drink too much that night. You know, I just, uh-- And I used poor judgment. I shouldn't have driven that night.", "topic": "avoiding DOI", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "Um, I don't really remember. I know, uh, I dunno, I probably had five or six drinks, I would think, something like that.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Um, yeah, they were a little bigger than that. I don't really-- I wasn't really counting, so, I don't really know.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Five or six, something like that. Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Um, absolute vodka-", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "-and seven off. Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Normally I drink one or two, and that's kind of it, you know, this one I did, uh- you know, I did feel a little drunk when I was- you know, when I was drinking, I just, uh, used poor judgment. I really shouldn't have drove.", "topic": "avoiding DOI", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "Um, sometimes I drink, um, you know, maybe one or two, and then I- and then I won't drink for a while, you know. So, it's not really a-- There's not really a pattern-", "topic": "avoiding DOI", "true": "sustain", "pred": "neutral", "error": null}
+{"text": "-you know, it's not really like a uh- it's not a habit, you know,", "topic": "avoiding DOI", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "I-I don't know if I would consider myself alcoholic. You know, I just, uh, um, you know, again, it was poor judgment.", "topic": "avoiding DOI", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "Oh, no.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Absolutely not. Mm-mm.", "topic": "avoiding DOI", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Um, there was really not a time that I, uh-- I don't know. I-I don't understand the question really. I mean, it-- There really wasn't-- I don't really drink on a normal basis, so, I don't know-- [crosstalk]", "topic": "avoiding DOI", "true": "sustain", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "It seems like every time that I, uh, do drink more than a couple of drinks, I tend to get in trouble. And, the two times that I did, I got in trouble both times. [crosstalk]", "topic": "avoiding DOI", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "Yeah, pretty much. I mean, it's-- It sounds strange, I know, but, uh--", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah. Actually, that-that's followed me around pretty much my whole life, the bad luck thing.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "But the-the-the-the-the alcohol hasn't really at all.", "topic": "avoiding DOI", "true": "sustain", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Sure seems like it. Yeah. It sure seems like that.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Um, you know, I don't really, um-- I-I don't really, uh, get into a situation where I-I-I drink too much. Um, you know, again, I-I realize it's my second DUI, but,, um, uh-uh, it isn't something that, um, is like a normal everyday process for me.", "topic": "avoiding DOI", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "Um, you know, normally when I drink, I drink one or two drinks and then I stop. Um, so, it's not like it's, um-- You know, it's not like it's something that has become a problem in my life, you know.", "topic": "avoiding DOI", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "Um, it's normally social.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah. It's normally social. It would be, you know, maybe in events or something like that is normally when I would, um, maybe drink more than one or two.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I guess I should probably just call a taxi cab or something, you know. That way, I wouldn't have this problem.", "topic": "avoiding DOI", "true": "change", "pred": "change", "error": null}
+{"text": "Um, probably, I think that would help. I think that would be something that I should, uh- I should work on.", "topic": "avoiding DOI", "true": "change", "pred": "change", "error": null}
+{"text": "Yeah. Yeah, or I can just stay home probably too. If I was gonna drink, I could probably stay home, then I wouldn't get in trouble either.", "topic": "avoiding DOI", "true": "change", "pred": "sustain", "error": null}
+{"text": "Yeah, a little bit.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, obviously, because I just don't-- You know, I don't like getting in trouble, and I don't, uh--", "topic": "avoiding DOI", "true": "change", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Um, oh, I'll never get in the car when I'm drinking again. That-- Yeah. I-I would never do that again.", "topic": "avoiding DOI", "true": "change", "pred": "change", "error": null}
+{"text": "Uh, I don't want to lose my license, you know.", "topic": "avoiding DOI", "true": "change", "pred": "sustain", "error": null}
+{"text": "I don't, uh, you know, I don't wanna lose my license.", "topic": "avoiding DOI", "true": "change", "pred": "sustain", "error": null}
+{"text": "Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Well, and then I-I sell cars for a living too, so--", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "-um, you know, that would be, um-- You know, I don't wanna lose my job either. You know, I think those would kind of be connected together.", "topic": "avoiding DOI", "true": "change", "pred": "neutral", "error": null}
+{"text": "And, you know, I-- You're not gonna call my work or anything for this, are you?", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Oh, okay.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "All right.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Okay. I just didn't know how that worked.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Because I think if they found out, I might, you know, be in jeopardy with my job. So--", "topic": "avoiding DOI", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Well, you know, the Super Bowl is coming up, and that might be an opportunity where, you know, I might-- I could see myself maybe drinking that day, you know.", "topic": "avoiding DOI", "true": "neutral", "pred": "change", "error": null}
+{"text": "So, maybe I would just, uh-- I think I'll just have people come over to my house instead of going somewhere else, you know.", "topic": "avoiding DOI", "true": "change", "pred": "sustain", "error": null}
+{"text": "Yeah, I think so, and probably a smarter thing to do. I don't wanna go through this again, you know.", "topic": "avoiding DOI", "true": "change", "pred": "change", "error": null}
+{"text": "Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I think so.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Sure.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "There you go.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "For my first DUI, I did, uh-- I didn't drink at all for about six months. And, um, I-I-I just didn't think that, um, I really had a problem with it, so, you know, I-I did start drinking again. But, you know, again, it wasn't uh-- You know, it was a little different last time, because I was drinking a little more last time than, you know, now. I don't really drink as-as much as I used to drink, you know, um, and, you know, after you know, I quit for six months, so I kind of knew that I didn't really have a problem.", "topic": "avoiding DOI", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Um, I know it was kind of strange. My friends didn't really hang out with me too much. Um--", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah. You know, I, uh.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "No, my friends.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Just my social circle, I guess, uh--", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Probably 'cause I didn't- I wasn't drinking with them, I guess. I don't really know. I mean, it seemed, uh--", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Um, no. I really couldn't because my girlfriend really wouldn't let me hang with them. You know? I mean, it was, uh-- She said that if I, you know, kept hanging out with them guys, that she wasn't gonna be with me anymore. And I just thought that it was better for me to, you know, calm down for a little bit and, uh, maybe things would get better with us, you know.", "topic": "avoiding DOI", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "Sure.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Well, it was until she left, you know.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Uh, she left when I started drinking again.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "After the six months, she, uh-- You know, it's kinda, I dunno, she just said that it wasn't gonna work out, and, uh, she decided not to continue with the relationship.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Uh, it was about the same time. I really don't know which came first. It was about the same time. Uh, we were getting in a lot of arguments. I just didn't quite feel myself. You know, I-I-I wasn't-- My friends weren't around. I, uh-- You know, I missed going out with them.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah. It was kind of weird 'cause I felt like she was trying to control me, and, uh- and uh, you know, I, uh-- And she was telling me what to do all the time, and I just, uh, didn't feel right about the whole situation. So, it was pretty much, we both decided, you know, that it just wasn't the right thing to do, so.", "topic": "avoiding DOI", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "Sure.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Well, I guess. Sure. Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "[clear throat] Well, let's see. The first one was, uh, three years ago, and then, um, this one was a few weeks ago, so, um, it's been a few years, you know.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah. It's been a few years", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I don't really know that I can really compare good or bad. I just, uh-- You know, I just drink to be social, you know, I don't know that it really changes anything about me. It just, uh-- You know, I just drink to be social, you know.", "topic": "avoiding DOI", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "Yeah, absolutely. Yeah. As soon as my girlfriend left, I could go out with them again, you know. [laughter]", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Well, she didn't want me going out with them.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "She thought that they really--", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "She blamed the first DUI on them. She said, you know, because I was out with them, that it was pretty much, you know, they-they made me drink too much that night.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I think she was right on that. Yeah, absolutely.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I mean, if they wouldn't have gave me those shots, you know, towards the end of the night, I would've been all right. You know, I could have drove, and I wouldn't have, uh- I wouldn't have hit that mailbox.", "topic": "avoiding DOI", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "That was--", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah. I was on-- It was like I was a couple of blocks away from the house and I, uh, rolled up on the neighbor's lawn and I took out their mailbox.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I don't really remember too much of that night.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Uh, I don't know if I was blacked out, but I just don't remember a lot of it.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I wouldn't really call it a blackout. I just don't really-", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "-remember how that happened.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah. Yeah. It's all right.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, Mary-Mary, just [crosstalk] Well, after-after I got the-the-- After I hit the mailbox-", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "-um, I stopped drinking for, you know, like about six months, and, uh, you know, and we were trying to work things out, but it just didn't-", "topic": "avoiding DOI", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "-it just didn't work.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I think she became a little too possessive at that point.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Um, I think she just wanted to control me and I was tired of being controlled.", "topic": "avoiding DOI", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "No, I was-- They just-- No, they weren't- they weren't really controlling me. They just-- They shouldn't have given me the last couple shots, 'cause you, they-they knew I was pretty, you know, uh, messed up before that. So-", "topic": "avoiding DOI", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "-you know, that when they- when they-- You know, when they gave me the last, you know, couple shots, that kind of put me over the edge.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Pretty much, pretty much.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah. I mean I guess it was my decision to take the, uh- you know, the other shots, but I-I just-- I don't know. I really don't really remember too much.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah. You can blame hindsight a little bit. I mean, that works for me. [laughter]", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah. [crosstalk]", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I mean, they've been my friends since, you know, uh, since high school.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, absolutely.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Sure, absolutely.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Uh, well, like I'll do stuff around the house, you know, uh, cut the grass and stop, do yard work, other than that, um, I don't know.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Uh, no, I'm single now, so, you know, I don't really, uh-- [crosstalk]", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "It's all right, you know, I date a little bit but, uh, you know, I just don't wanna get serious right now.", "topic": "avoiding DOI", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "Um, I just don't want to date someone in a regular basis. I don't really feel like I want to be in a committed relationship.", "topic": "avoiding DOI", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "Sure, absolutely.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Well, I think I would like really think about--", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah. Well, I mean I-I, uh- I, uh- I wouldn't drink as much, and if I- if I did, I would call, uh, a taxi or, um, you know, get some kind of a ride home, I think, 'cause, uh, you know, I just, uh-- I-I just don't wanna get in trouble, you know.", "topic": "avoiding DOI", "true": "change", "pred": "change", "error": null}
+{"text": "Uh, I don't really think about that. I guess I would have to think about that, because if I was gonna go out and drink, I would have to think about that. Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I guess I could call it taxi cab or something, I don't know.", "topic": "avoiding DOI", "true": "change", "pred": "neutral", "error": null}
+{"text": "Yeah. I think that will be something.", "topic": "avoiding DOI", "true": "change", "pred": "neutral", "error": null}
+{"text": "Yeah. I think maybe if I take some money, I'll put it like in my wallet-", "topic": "avoiding DOI", "true": "change", "pred": "neutral", "error": null}
+{"text": "-and I'll like put it in there for emergency, and that way, I'll have money. In case I get drunk, I can just call a cab, and I'll use that money to get home.", "topic": "avoiding DOI", "true": "change", "pred": "change", "error": null}
+{"text": "What's that?", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Probably in my front pocket, I guess.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah. Well, if I put, uh- if I put it away, then I wouldn't spend it though, you know, [unintelligible 00:18:48] have it.", "topic": "avoiding DOI", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "There-there would be a plan that I would have to-", "topic": "avoiding DOI", "true": "change", "pred": "neutral", "error": null}
+{"text": "-to get home. Yeah.", "topic": "avoiding DOI", "true": "change", "pred": "neutral", "error": null}
+{"text": "It'd probably be my wallet for a while, I would think, 'cause I-- Like I said, I don't really think I have a problem with, uh- with the drinking, you know. I just-", "topic": "avoiding DOI", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "-think that, you know, it was an isolated incident.", "topic": "avoiding DOI", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "And-and I, uh-- You know, I just, uh--", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, well, you gotta have some people over at the Super Bowl, you know.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I don't really hang out with people that really drink a lot though. I mean, they're-they're not like-- I wouldn't call them drunks, so, I mean, they can, you know, they can handle their-- [crosstalk]", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Sure, I would think, yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "You know, it was a- it was, uh- it was pretty good. I just didn't feel like I had my friends around, and-and it just-- It seemed kinda boring. I mean, I felt good physically and, uh, you know, I, uh- I was more on time to work, I was doing really good at work and so forth, um, but, you know, it just, um-- The hard part for me was I just, uh- I just didn't have any friends around. I just kinda-- I felt isolated. I just didn't- I just didn't feel comfortable, you know.", "topic": "avoiding DOI", "true": "sustain", "pred": "neutral", "error": null}
+{"text": "Well, my-my girl- my girlfriend and I were trying to work it out. But it just seemed like we were arguing all the time, you know. It just didn't seem like-- You know what I mean? Like the not-drinking part was good, but it just didn't seem like anything else had changed.", "topic": "avoiding DOI", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "You know.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "No-", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "-and I really don't see that working out really well.", "topic": "avoiding DOI", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "Well, I don't know. I mean, it's a-- I mean, my friends drink though. So, it's kinda hard to- it's kinda hard to, you know, to be with them, and then-- When I'm not drinking, 'cause it's-- I just don't feel like I fit in, you know.", "topic": "avoiding DOI", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "Yeah, they don't drink that much, but they-they seem to-- You know, like they do drink though, you know.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I mean, it's just beer. You know-", "topic": "avoiding DOI", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "-it's not like they're drinking whiskey or anything like that. It's--", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "You know, but, they'll drink beer, and it's just-- You know, for me, I don't know. Sometimes, uh, I don't-- You know, I have an intention to have a couple of drinks and maybe I'll have, you know, more than a couple, you know-", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "-and then I don't know what really makes a-a legal limit. So, I think I can drink what? Like two or three drinks an hour, is that what it is?", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "One drink per hour, okay.", "topic": "avoiding DOI", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "I'll have to remember that. [laughing]", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, One shot.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Okay.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Just one though?", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "That's it.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, I guess. I-I think I probably know a couple of friends that don't drink and I don't really, uh, probably--", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I'd have to really think about it. I don't really have too many good friends. You know, I have some acquaintances that don't drink but-", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "-pretty much everyone I know like drinks.", "topic": "avoiding DOI", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "Yeah, I, uh--", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I don't know. Just, it's weird, I-I think that, you know, kinda when I go there, you know, and-and hang with them at all, it's, uh-- You know, we- you know-", "topic": "avoiding DOI", "true": "sustain", "pred": "neutral", "error": null}
+{"text": "Yeah. Yeah, exactly.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Well, 'cause they're drinking and then- and if I'm drinking soda, they kind of mess with me a little bit.", "topic": "avoiding DOI", "true": "sustain", "pred": "neutral", "error": null}
+{"text": "Well, they just mess with me until I get-- You know, until I drink a beer with them, you know. So--", "topic": "avoiding DOI", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "You know, I mean, just-", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "-they're just kinda like egging me on, I don't know.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "You know, I really don't feel like being an outcast, you know what I mean, they're my friends, you know. I--", "topic": "avoiding DOI", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "I've been with them since, you know, like high school. So, I can't.", "topic": "avoiding DOI", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "They mean a lot to me.", "topic": "avoiding DOI", "true": "sustain", "pred": "neutral", "error": null}
+{"text": "I guess maybe it would probably be not a bad idea to not hang with them for a little bit, I guess. You know, I mean, I-I-I-- Yeah.", "topic": "avoiding DOI", "true": "change", "pred": "change", "error": null}
+{"text": "Yeah, sure. I gu- I think that would be something I could probably try.", "topic": "avoiding DOI", "true": "change", "pred": "change", "error": null}
+{"text": "Well, if I need to get my license back, I think it would be pretty important for me to stop hanging around with them for a while, you know.", "topic": "avoiding DOI", "true": "change", "pred": "change", "error": null}
+{"text": "Yeah, absolutely.", "topic": "avoiding DOI", "true": "change", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I think that would be a good idea. Uh, is this gonna help like get my license back, like, at this-- Like, the-the plans that I've made, is that gonna really help me like--", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Okay, good.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "-about the plans that you're striving for. Um, that I-- There would be, um, uh, someone to read this assessment-Mm.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Um, probably just not really drink as much. I mean, if I just didn't drink, I wouldn't have to really worry about that too much either.", "topic": "avoiding DOI", "true": "change", "pred": "change", "error": null}
+{"text": "Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah. This is true. Yeah.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Okay. Thank you.", "topic": "avoiding DOI", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "engaging in community activities", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yes, I guess.", "topic": "engaging in community activities", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Well, I didn't do anything yet. I didn't go-- I know I was gonna go, but I didn't. But, um, I did look at-- there's the YMCA, they've got some classes that I think will be pretty cool to go to, and then there's this yoga class over at the Women's Center that's only like 10 bucks, so I could do that, um-- but I didn't go because I'm really afraid that like what if-- you know, what if no-one likes me? What if I don't have friends in there?", "topic": "engaging in community activities", "true": "sustain", "pred": "neutral", "error": null}
+{"text": "Mm-hmm.", "topic": "engaging in community activities", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "engaging in community activities", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "engaging in community activities", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, but I'm gonna do it anyway, because this is what I need to do to make-- you know, to make friends.", "topic": "engaging in community activities", "true": "change", "pred": "change", "error": null}
+{"text": "Yeah.", "topic": "engaging in community activities", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Okay, oh, actually, could I confide something in you that has been bothering me lately. Well, prior to that party, like, as you know, I'm a honor student and my parents, like, they keep me very, like k-kept down out of the, like so- like social life.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "And, um, about a month ago, my friends invited me to a party. And they used the fact that, Oh, I'm always doing my homework, I'm always studying that to allow me to go to the party. And on-- well, that party, I managed to convince my parents that I would spend the night at my friend's house. So, that's when I started drinking.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "It was a- it was a unique experience, as you can say. I guess you can say. And, I don't know, I-- It was fun, at least, in the moment. So, I kept doing it. Then this past weekend, instead of studying for an exam, I asked my-- I begged my mom to let me go to another party. And she, kind of, knew what I was doing. She asked me to, like, to promise her of no alcohol, no drugs. Then I'll pick you up by 12:00. And I-I was surprised. 12:00-12:00, that's basically when the party starts, but I told her whatever-- I thought- I thought to myself that I'll-I'll come-- I'll figure out to delay her, can you pick me up later? So later, so she-- I promised that-- She dropped me off, I promised her no alcohol, no nothing. So I-- we go, I have fun like I've been having. And I was drinking. And then the time- the time came for her to pick me up. And as soon-- I couldn't delay her from picking me up. And as soon as she picked me up, and I stepped in the car, she said, \"You drank vodka.\" And I'm like, I-I didn't know what to say. I just looked at the floor. And I-I feel terrible because I-I betrayed my mother. I broke my trust with her that she expected me not to indulge in alcohol. And that's exactly what I did.", "topic": "reducing alcohol consumption", "true": "change", "pred": "sustain", "error": null}
+{"text": "Right.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yes, right. Like I've been noticing I've been more lethargic and apathetic towards schoolwork.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "I haven't really-- I kind of just sit in class like-- I-- my mind is elsewhere, especially on the weekends, where instead of-- I was- I was instead of studying, I caught up with my friends, trying to find where we can-- I get alcohol based on their age and stuff like that.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I don't know. It-It's because I'm a very reserved person, for the most part, not when- not when I'm dealing with sports or like-- you know, like a social environment. I tend to keep to myself because I'm very self-conscious, I would say. And when I- when I drink, I feel, I don't know, like, it relaxes me. I'm able to talk or engage with other people more easily. I don't know it just\u2014", "topic": "reducing alcohol consumption", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "Exactly.", "topic": "reducing alcohol consumption", "true": "sustain", "pred": "neutral", "error": null}
+{"text": "Kind of.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "Just different groups, friends or groups, girlfriends, like different people that I'm hanging out with because certain people are associated with that type of scene.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "So, that-that-that's also changed.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "A little bit because not all of them are into that. So, like, I'm in one group of friends, and I would talk to another person that's an another group of friends and they just happen to invite me to that first party.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "So, since then, I've been hanging out more with them, getting to know them. But I can also see that oh, I'm just living life, I guess. But that's also not fair to them that I'm not there for them as much as I was before.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "As they are there for me, you know.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "Oh, um, I feel I should st-stop. I mean, like, I'm not-not unrealistic. I understand that situations like this will happen.", "topic": "reducing alcohol consumption", "true": "change", "pred": "change", "error": null}
+{"text": "It's just up to me not to take it so far, where I can't remember the night before, if I'm puking. All I remember is the toilet-", "topic": "reducing alcohol consumption", "true": "change", "pred": "sustain", "error": null}
+{"text": "-that's-that's not worth it, either. And I have to slowly build back my trust with my mother because that was that's a big blow. It's little so I guess may seem to other people.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "But to me then it's a big thing.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "Of course.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "Exactly.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "A lot at this point because I feel that's a big factor with gaining back my trust with my mother.", "topic": "reducing alcohol consumption", "true": "change", "pred": "change", "error": null}
+{"text": "And also getting back on top of my school work again my athletics too.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "So I feel that there-there's a future in that.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "I'm pretty confident, especially.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "Probably like an 8 or 9.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "And that can't be a ten there's nothing as ten in life I feel. Like there's too many factors but I feel like I'm determined to.", "topic": "reducing alcohol consumption", "true": "change", "pred": "change", "error": null}
+{"text": "Because I don't know I feel deter-determined to-to make sure this happens because I don't like how I felt after I-I betrayed my mother. I don't like remembering that the feeling of like vomiting.", "topic": "reducing alcohol consumption", "true": "change", "pred": "change", "error": null}
+{"text": "It's not a pleasant experience. Uh, it's not something that I wish to enjoy. So like even if I do drink, I don't want to drink to the point where that happens, like all the fun that I have and prior to that just it's not worth-it's not worth drinking.", "topic": "reducing alcohol consumption", "true": "change", "pred": "change", "error": null}
+{"text": "To make sure I have my studies. Well first, try to get-get back my trust with mother-", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "-then just focus on my studies. Then if I have time for leisure time like I'll go party with my friends and just be as a party with them doesn't mean I have to drink. And I do one cup is not going to do anything to my life either. But I'd prefer not to do that. I prefer just make sure.", "topic": "reducing alcohol consumption", "true": "change", "pred": "change", "error": null}
+{"text": "Exactly. Just so I take part with the social convention but it's not. Hey guys.", "topic": "reducing alcohol consumption", "true": "change", "pred": "neutral", "error": null}
+{"text": "And-and thank you for listening me listening to me. It means a lot to me.", "topic": "reducing alcohol consumption", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Well, I've got myself all worked up now I've been sat outside.", "topic": "diagnosis", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I'm not-- I'm now late. I'm sorry. Um, I've come to see you because I've got a really sore throat. It's been like this for a good few days, um, and I think I need some more antibiotics.", "topic": "diagnosis", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Ah.", "topic": "diagnosis", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I've been sat here for half an hour. Do you not want to know a little bit more about it, or? I mean, it- it's really painful. I- I've barely been able to swallow today and I'm so worried about passing things on to the kids. Um\u2014", "topic": "diagnosis", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "[sighs] Well, I mean, this is gonna affect my job. I talk on the phone quite a lot at work, and I'm just-- I don't think at the moment I'm going to be able to go to work. Can- can I, at least, get a sick note?", "topic": "diagnosis", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "Well, I don't think my employer are gonna take that. I mean, they- they've given us so much hassle at things in the past. I mean, can- can I get a private note? Can- can I ask you to write me a letter, at least?", "topic": "diagnosis", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Just- it's just not good enough. I just-- [sighs]", "topic": "diagnosis", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Parace- paracetamol. Do you understand how difficult this is gonna be for me? I mean, I could lose my job or something.", "topic": "diagnosis", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "I'm sorry, uh, I think I'm gonna say something that I don't- I don't want to, so I'm actually going to go.", "topic": "diagnosis", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Thank you.", "topic": "diagnosis", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Well, I, um, I did get an interview for a job. Um\u2014", "topic": "managing life", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, but I wasn't able to go, um, cause my kids, I didn't have any one to watch them. And, um, you know, so the- that was sort of game over. I just, I had to cancel the interview and this, it's too bad because it was a really, a- actually was a job that would have been good, but I don't know.", "topic": "managing life", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Well, yeah, because it's- it's, you know, I didn't really have a choice. I guess I have to be- I have to make sure my kids are taken care of first. And, um, you know, I'm worried that this is gonna keep happening.", "topic": "managing life", "true": "change", "pred": "sustain", "error": null}
+{"text": "Yeah.", "topic": "managing life", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Um, it sits about at a 10 because yeah, I mean, I'm the only one supporting my kids and, um, you know, it's just, what I'm getting from welfare is just not cutting it. So I really need to have a job and soon.", "topic": "managing life", "true": "change", "pred": "change", "error": null}
+{"text": "Yeah.", "topic": "managing life", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Mm-hmm.", "topic": "managing life", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I mean, right now, I think I'm about at a three. I just seems like, you know, even if I'm able to get into the interview and get childcare, you know, when I show up, I've got this resume that it's- it's not impressive and it's got all these gaps of employment and I'm not as educated as other people going in for the same job. So I just feel like I'm not, um, I don't know, that employable.", "topic": "managing life", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "Yeah.", "topic": "managing life", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah. Yeah, because it's so limited and I've been out of the workforce and even when I was working, I mean, it's not, I don't know, it's not stuff that I feel like can lead to the job that I want now.", "topic": "managing life", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "I just want something that is- is gonna be steady and where I can be, you know, even if my kids are in childcare during the day, that I can be home every night and spending time with them and, um, know you really like to get something where, um, I'm just making good money and- and I don't have to worry all the time about money.", "topic": "managing life", "true": "change", "pred": "change", "error": null}
+{"text": "Yeah. It would be huge.", "topic": "managing life", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah. And it'd be nice to just know what I'm doing and just have my routine.", "topic": "managing life", "true": "change", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "managing life", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Right. Well, it would be good if I knew, you know, that my kids are taken care of too-", "topic": "managing life", "true": "change", "pred": "neutral", "error": null}
+{"text": "- so I'm not worried about them while I'm at work.", "topic": "managing life", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Right.", "topic": "managing life", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Well, I mean, being able to make the interviews would be the priority.", "topic": "managing life", "true": "change", "pred": "neutral", "error": null}
+{"text": "Um, so chi- you know, taking care, having some childcare, having-", "topic": "managing life", "true": "change", "pred": "neutral", "error": null}
+{"text": "- having someone I trust that I can call when I know I've got an interview.", "topic": "managing life", "true": "change", "pred": "neutral", "error": null}
+{"text": "Right. Yeah.", "topic": "managing life", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "managing life", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Um, I just wish that I had- I had more experience or, um, you know, more education. It seems like everyone's got a college education and I don't have that on my resume.", "topic": "managing life", "true": "change", "pred": "neutral", "error": null}
+{"text": "I get asked about education and training and \u2013", "topic": "managing life", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "- um, you know, I just, it, as soon as I asked about it, I just feel just like I'm not good enough-", "topic": "managing life", "true": "sustain", "pred": "neutral", "error": null}
+{"text": "- since I don't have that.", "topic": "managing life", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah. Well, something I could talk about in the interview too. You know, even if I was some type of certification where I could say, I could, you know, with confidence talk about- about that.", "topic": "managing life", "true": "change", "pred": "neutral", "error": null}
+{"text": "I mean, I guess, I just don't really know what it's gonna be because I need to have a job now so I'm not really sure.", "topic": "managing life", "true": "change", "pred": "neutral", "error": null}
+{"text": "Right. I almost feel like that's more important than what I'm interested in, you know, because I'm like, I'm not going to go back to school for four years right now.", "topic": "managing life", "true": "change", "pred": "sustain", "error": null}
+{"text": "Yeah or something-- yeah, something that I could get immediate skills that would, you know, get me into some kind of a job now, even if it's not my long-term goal or, you know, career just- just get me into something and then I can always focus on.", "topic": "managing life", "true": "change", "pred": "change", "error": null}
+{"text": "Yeah. Great. Exactly.", "topic": "managing life", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Mm-hmm.", "topic": "managing life", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, because even those jobs right now don't feel accessible for me. They seem like, you know-- seems like if-- maybe if I were better on the computer or you know.", "topic": "managing life", "true": "change", "pred": "sustain", "error": null}
+{"text": "Yeah. I think so- I think so because I don't-- I can't-- I don't really have anything on my resume that talks about\u2014", "topic": "managing life", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "managing life", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "managing life", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, that would be great.", "topic": "managing life", "true": "change", "pred": "neutral", "error": null}
+{"text": "That would be great.", "topic": "managing life", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Well, find the childcare resources-", "topic": "managing life", "true": "change", "pred": "neutral", "error": null}
+{"text": "- is- seems to be- that seems to be the\u2014", "topic": "managing life", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "The priority 'cause I can't even do an interview without that.", "topic": "managing life", "true": "change", "pred": "sustain", "error": null}
+{"text": "And then, um, I mean-- I guess getting into some type of- some type of a training program that's, you know, short-", "topic": "managing life", "true": "change", "pred": "change", "error": null}
+{"text": "- like maybe there's a weekend, I mean\u2014", "topic": "managing life", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Oh, thanks so much doctor. I'll just take it easy for a couple of days.", "topic": "more exercise / increasing activity; weight loss", "true": "neutral", "pred": "sustain", "error": null}
+{"text": "Yeah, I suppose. I know my weight is a problem, but every time I try to take it off, I end up gaining it back. I don't know what to do.", "topic": "more exercise / increasing activity; weight loss", "true": "change", "pred": "sustain", "error": null}
+{"text": "Okay, thank you doctor, but I'm just concerned about how I can possibly lose weight now since work is so busy and the kids take up so much of my time.", "topic": "more exercise / increasing activity; weight loss", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "Okay, that sounds great. So, what should I do?", "topic": "more exercise / increasing activity; weight loss", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I knew you were gonna say that, but I don't have time in my schedule. I can't afford to take an hour to go to the gym every day.", "topic": "more exercise / increasing activity; weight loss", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "I like to walk.", "topic": "more exercise / increasing activity; weight loss", "true": "change", "pred": "neutral", "error": null}
+{"text": "Wait a minute, isn't walking too mild to help you lose weight, though?", "topic": "more exercise / increasing activity; weight loss", "true": "sustain", "pred": "neutral", "error": null}
+{"text": "Oh, wow, that sounds good. You know what? Come to think of it, I have some time before I have to go back to work and I saw a nice park on the way over here, maybe I can take a short walk after this appointment.", "topic": "more exercise / increasing activity; weight loss", "true": "change", "pred": "change", "error": null}
+{"text": "And you know what? I used to really love to dance, but I haven't done that in such a long time.", "topic": "more exercise / increasing activity; weight loss", "true": "change", "pred": "neutral", "error": null}
+{"text": "Hmm. And I know my family would support me if I could just find some place where I can go dancing.", "topic": "more exercise / increasing activity; weight loss", "true": "change", "pred": "change", "error": null}
+{"text": "Yeah, and you know what? I really like to try that.", "topic": "more exercise / increasing activity; weight loss", "true": "change", "pred": "change", "error": null}
+{"text": "Actually, I really would. I'm kind of excited about it. What else you got?", "topic": "more exercise / increasing activity; weight loss", "true": "change", "pred": "change", "error": null}
+{"text": "Mm-hmm. I can do that.", "topic": "more exercise / increasing activity; weight loss", "true": "change", "pred": "change", "error": null}
+{"text": "Diet, the D word.", "topic": "more exercise / increasing activity; weight loss", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, I like that. Okay, I'll make an appointment and I'll start dancing right away, doc.", "topic": "more exercise / increasing activity; weight loss", "true": "change", "pred": "change", "error": null}
+{"text": "Well, I'm here because my mom wants me to be here.", "topic": "unidentifiable", "true": "sustain", "pred": "sustain", "error": null}
+{"text": "I don't really wanna be here, but it-it-- whatever.", "topic": "unidentifiable", "true": "sustain", "pred": "neutral", "error": null}
+{"text": "Um, she-she found my stash-", "topic": "unidentifiable", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "-and she freaked out, and she's going crazy over it. Um, I don't why she was going through stuff in the first place, but whatever, so, now I'm here.", "topic": "unidentifiable", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Um, I've been hanging out with a new cool crowd of people that I really like.", "topic": "unidentifiable", "true": "sustain", "pred": "neutral", "error": null}
+{"text": "Uh, a-and-and that's-that's basically it.", "topic": "unidentifiable", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "unidentifiable", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, basically.", "topic": "unidentifiable", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Mm-hmm.", "topic": "unidentifiable", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I am.", "topic": "unidentifiable", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I mean, it's my stuff, I don't know why she's\u2014", "topic": "unidentifiable", "true": "sustain", "pred": "neutral", "error": null}
+{"text": "I-I don't go- I don't go through her s- I don't go through her stuff. I don't go through her purse. I don't\u2014", "topic": "unidentifiable", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Right.", "topic": "unidentifiable", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Well, I think, um, like when I was really active in the past, I enjoy going to the gym and I like that regardless of what's happening with the weather outside, that-that's always an option. Um, so I've kind of already started to look and see, like, how much gym memberships cost in the area. Um, I really like one that's like month to month and doesn't require me to pay out for like a year because, in the summertime, I just don't use that when the weather is nice, I like to be outside.", "topic": "more exercise / increasing activity", "true": "change", "pred": "change", "error": null}
+{"text": "So, um, I do think that that would be an option. Um, I did enjoy doing yoga in the past. I, um, I don't care for swimming, uh, because it requires a lot of extra prep time, and like, I don't- chlorine in my hair just doesn't really go very well usually. Um, but I really like walking, um, weightlifting, running is okay. Um, that was more at my, like, peak activity level, so I don't think I could start out running now, but I'd like to work up to it.", "topic": "more exercise / increasing activity", "true": "change", "pred": "change", "error": null}
+{"text": "Mm-hmm.", "topic": "more exercise / increasing activity", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Mm-hmm.", "topic": "more exercise / increasing activity", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah. So I just- on my phone, if I'm like in the grocery store, I'm kind of just looking through, and on Google, I'll type in like \"Gyms in the area\" and I'll look and see what's there. And, um, I don't ever want to sign up to learn more 'cause I feel like then they just keep emailing you forever. So at this point, I'm just trying to kind of figure out what I can, based on their website as far as cost goes, but that, um, month to month is kind of really important for me. Just like I mentioned, I don't want to be paying for six months or a year out.", "topic": "more exercise / increasing activity", "true": "sustain", "pred": "neutral", "error": null}
+{"text": "Mm-hmm.", "topic": "more exercise / increasing activity", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah.", "topic": "more exercise / increasing activity", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Mm-hmm.", "topic": "more exercise / increasing activity", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, I think, um, you know, I've kind of looked around and seen what I- what's available to me. Um, I think the next step would be to maybe go visit one place and just see, like, what equipment they have. Um, I also think too, I'd like to be outside when the weather permits. I like to walk. I just- I don't like rain or snow or cold, like, um, I don't like doing things when I'm just not in a climate that's enjoyable. So if there is, uh, decent weather, I think going outside and, you know, getting some steps in or just walking would be a good first start for me.", "topic": "more exercise / increasing activity", "true": "change", "pred": "change", "error": null}
+{"text": "Right. Yeah.", "topic": "more exercise / increasing activity", "true": "change", "pred": "neutral", "error": null}
+{"text": "Sure. Yeah.", "topic": "more exercise / increasing activity", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I don't know that I've looked closely at that. I don't know much about their pricing or anything like that.", "topic": "more exercise / increasing activity", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "I agree.", "topic": "more exercise / increasing activity", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, definitely.", "topic": "more exercise / increasing activity", "true": "change", "pred": "neutral", "error": null}
+{"text": "Mm-hmm.", "topic": "more exercise / increasing activity", "true": "neutral", "pred": "neutral", "error": null}
+{"text": "Yeah, no, yeah. That's a good-good recommendation. I'll definitely check it out.", "topic": "more exercise / increasing activity", "true": "change", "pred": "change", "error": null}
+{"text": "Mm-hmm.", "topic": "more exercise / increasing activity", "true": "change", "pred": "neutral", "error": null}
+{"text": "Yeah. I think, you know, finding ways to walk more would be good, um, even if that is inside somewhere. Uh, I've done the like trick of parking in the back of the parking lot and walking up to the store. Um, and like I've also been in Target and taken an extra lap, which is kind of dangerous too 'cause you might spend more money. Um, but I- I think if the weather's nice too, I would like to get outside and try to find a place to walk. Um, and two, I really did enjoy yoga, it's- it was good for my, like, flexibility and posture, and so I would be interested in maybe seeing too what classes are available in the area. I haven't looked at that at all.", "topic": "more exercise / increasing activity", "true": "change", "pred": "change", "error": null}
+{"text": "Home workouts have never really worked for me in the past just because there's so many distractions, and I can, like, set the mat out there and everything and get everything ready, like bottled water, everything's good to go. And then it just sits there and I don't actually do it, whereas if I go somewhere else, I'm already there. And so I'm doing it.", "topic": "more exercise / increasing activity", "true": "change", "pred": "sustain", "error": null}
+{"text": "Mm-hmm.", "topic": "more exercise / increasing activity", "true": "change", "pred": "neutral", "error": null}
+{"text": "No, that sounds good. I-I definitely think, um, I'll walk probably more than one time in the next couple of weeks, but, um, I also have this app on my phone that tracks my steps, uh, and it was like built into the phone. It's nothing I downloaded or anything. So I can also use that to kind of see if I'm getting more active 'cause right now I think I'm averaging like 2,000 steps a day, so it's like a lot of sitting.", "topic": "more exercise / increasing activity", "true": "change", "pred": "change", "error": null}
+{"text": "Yeah, I think so.", "topic": "more exercise / increasing activity", "true": "change", "pred": "neutral", "error": null}
+{"text": "I think I'm at a 10.", "topic": "more exercise / increasing activity", "true": "change", "pred": "neutral", "error": null}
+{"text": "Yeah. I think that, like I said, I think I'll find ways to walk. Um, and I'm at a point now where I've done as much research, I've found out as much information, I think, as I can on the gyms that are local here. Um, but I will check out the- the Y to see if it maybe is a bit cheaper and also a bit more, like, welcoming and doesn't require a- like, a six-month contract or anything like that. So I feel like those would both be good starts. Yeah.", "topic": "more exercise / increasing activity", "true": "change", "pred": "change", "error": null}
+{"text": "Um, well, if I'm trying to walk outside, the weather's always going to be one, but I, again, like I said, if I'm checking, uh, using the app on my phone to see my step count, I can maybe make more of a priority to walk indoors, um, and just find places inside that I could walk, even if it's just around the hallway or whatever that looks like-", "topic": "more exercise / increasing activity", "true": "change", "pred": "change", "error": null}
+{"text": "Yeah, but hopefully there's one. So, yeah.", "topic": "more exercise / increasing activity", "true": "change", "pred": "neutral", "error": null}
+{"text": "No, I feel really good. I think even coming in, I didn't have a like step-by-step idea of what I wanted to do next, but no, this has been helpful to know what those small steps are, and like you said, hopefully, I do start feeling better. Yeah.", "topic": "more exercise / increasing activity", "true": "change", "pred": "neutral", "error": null}
+{"text": "Thanks for having me. All right.", "topic": "more exercise / increasing activity", "true": "neutral", "pred": "neutral", "error": null}

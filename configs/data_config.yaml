@@ -24,11 +24,15 @@ data:
     - main_therapist_behaviour
     - client_talk_type
 
-chunking:
-  turns_per_chunk: 8
-  overlap: 4
-  min_turns: 4
-  include_partial_final_chunk: true
+# Task: predict client_talk_type for each client utterance.
+# Targets are restricted to client utterances whose label is one of
+# {change, neutral, sustain}. Therapist utterances may appear as causal
+# context (controlled by context_turns) but are never target rows.
+task:
+  target: client_talk_type
+  speaker: client
+  allowed_labels: [change, neutral, sustain]
+  context_turns: 0  # 0 = current client utterance only (clean baseline)
 
 splits:
   train_ratio: 0.70
@@ -39,16 +43,15 @@ splits:
 tokenizer:
   type: whitespace
   hf_model_name: distilbert-base-uncased
-  save_tokenized_splits: true
+  save_tokenized_splits: false
 
 baseline:
   enabled: true
-  label_field: metadata.therapist_behavior_mode
+  label_field: metadata.client_talk_type
   scoring_split: val
-  chunk_window_sizes: [4, 6, 8, 10]
-  overlap_ratio: 0.5
-  vocab_sizes: [512, 1024, 2048]
-  lowercase: true
+  context_turns_sweep: [0, 2, 4]
+  vocab_sizes: [1024, 2048, 4096]
   ngram_range: [1, 2]
-  max_iter: 1000
+  lowercase: true
+  max_iter: 2000
   class_weight: balanced
